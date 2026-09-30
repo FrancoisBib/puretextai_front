@@ -1,0 +1,17 @@
+{
+  "upgradeCta": "Upgraden naar Studio",
+  "studioBadge": "Studio",
+  "addToBrowser": "Toevoegen aan {browser}",
+  "account": "Account",
+  "correctionLanguage": "Correctietaal",
+  "history": "Geschiedenis",
+  "profile": "Profiel",
+  "preferences": "Voorkeuren",
+  "signOut": "Uitloggen",
+  "noAccount": "Geen account",
+  "noAccountHint": "Uw teksten worden niet opgeslagen",
+  "signIn": "Inloggen",
+  "freeAccountHint": "Een gratis account bewaart uw geschiedenis en heft de eenmalige proeflimiet op.",
+  "planFree": "Gratis",
+  "planStudio": "Studio"
+}

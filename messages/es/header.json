@@ -1,0 +1,17 @@
+{
+  "upgradeCta": "Pasar a Studio",
+  "studioBadge": "Studio",
+  "addToBrowser": "Añadir a {browser}",
+  "account": "Cuenta",
+  "correctionLanguage": "Idioma de corrección",
+  "history": "Historial",
+  "profile": "Perfil",
+  "preferences": "Preferencias",
+  "signOut": "Cerrar sesión",
+  "noAccount": "Sin cuenta",
+  "noAccountHint": "Tus textos no se guardan",
+  "signIn": "Iniciar sesión",
+  "freeAccountHint": "Una cuenta gratuita conserva tu historial y elimina el límite de prueba única.",
+  "planFree": "Gratis",
+  "planStudio": "Studio"
+}

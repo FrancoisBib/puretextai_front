@@ -1,0 +1,22 @@
+{
+  "title": "Historique",
+  "subtitle": "Vos derniers traitements, corrections et humanisations confondues.",
+  "loading": "Chargement de l'historique…",
+  "retry": "Réessayer",
+  "loadMore": "Charger plus",
+  "loadingMore": "Chargement…",
+  "empty": "Aucun historique pour l'instant.",
+  "columns": {
+    "date": "Date",
+    "excerpt": "Extrait",
+    "module": "Module",
+    "words": "Mots",
+    "ai": "IA"
+  },
+  "modules": {
+    "correct": "Correction",
+    "humanize": "Humanisation",
+    "detect": "Vérification IA",
+    "similarity": "Similarité"
+  }
+}

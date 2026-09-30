@@ -1,0 +1,94 @@
+{
+  "heading": "Test de legibilidad",
+  "headingEmphasis": "para un texto.",
+  "subheading": "Medimos el esfuerzo que debe hacer el lector: longitud de las frases, palabras complejas, voz pasiva, jerga. Nada se reescribe: los pasajes costosos se muestran justo donde están.",
+  "categories": {
+    "longue": "Frase larga",
+    "passive": "Voz pasiva",
+    "jargon": "Jerga"
+  },
+  "findingWhy": {
+    "longue": "{n} palabras de un tirón. Pasadas las 25, el lector pierde el sujeto antes de llegar al verbo: corta en el primer conector.",
+    "jargon": "«{terms}»: términos abstractos que exigen descifrar. Una palabra concreta dice lo mismo más rápido.",
+    "passive": "La frase oculta quién actúa. En voz activa es más corta y el lector sabe quién hace qué."
+  },
+  "levels": {
+    "veryEasy": { "name": "Muy fácil de leer", "grade": "nivel secundaria" },
+    "comfortable": { "name": "Lectura cómoda", "grade": "nivel bachillerato" },
+    "demanding": { "name": "Lectura exigente", "grade": "nivel universitario" },
+    "difficult": { "name": "Lectura difícil", "grade": "nivel posgrado o superior" }
+  },
+  "signals": {
+    "sentenceLength": {
+      "name": "Longitud de las frases",
+      "metric": "{asl} palabras de media",
+      "note": {
+        "0": "Muy por encima de una lectura cómoda (15 a 20 palabras).",
+        "1": "Un poco largo: el lector puede seguir, pero sin margen.",
+        "2": "En la zona cómoda."
+      }
+    },
+    "complexWords": {
+      "name": "Palabras complejas",
+      "metric": "{pct} % del texto",
+      "note": {
+        "0": "Muchas palabras de cuatro sílabas o más.",
+        "1": "Densidad razonable para un texto especializado.",
+        "2": "Vocabulario accesible."
+      }
+    },
+    "passiveVoice": {
+      "name": "Voz pasiva",
+      "metric": "{n, plural, one {# oración} other {# oraciones}}",
+      "note": {
+        "0": "El sujeto de la acción desaparece con demasiada frecuencia.",
+        "1": "Uso ocasional, aceptable.",
+        "2": "Ninguna: las frases dicen quién actúa."
+      }
+    },
+    "jargon": {
+      "name": "Jerga",
+      "metric": "{n, plural, one {# término} other {# términos}}",
+      "note": {
+        "0": "Suficiente para perder a un lector no iniciado.",
+        "1": "Algunos términos abstractos, localizados en el texto.",
+        "2": "No se han detectado términos abstractos."
+      }
+    }
+  },
+  "summary": {
+    "some": "{n, plural, one {# oración por aligerar} other {# oraciones por aligerar}} · {asl} palabras por frase de media",
+    "none": "Frases cortas, vocabulario directo: nada que aligerar."
+  },
+  "scoreTooltip": "Índice de legibilidad de Kandel-Moles, ajustado para textos en español.",
+  "goToCorrect": "Ir a Corrección",
+  "seeInText": "Ver en el texto",
+  "queueLabel": "{n, plural, one {# oración por aligerar} other {# oraciones por aligerar}}",
+  "queueLabelEmpty": "Frases por aligerar",
+  "queueEmptyNote": "Ninguna frase supera el umbral de carga. El texto se lee de un tirón.",
+  "signalsHeading": "Lo que le cuesta al lector",
+  "signalsSubheading": "Cuatro medidas, de la más a la menos penalizante.",
+  "correctThisSentence": "Corregir esta frase",
+  "emptyState": {
+    "title": "La puntuación aparece aquí",
+    "note": "Junto con las cuatro medidas que la explican y las frases por aligerar primero.",
+    "action": "Cargar un texto de ejemplo"
+  },
+  "yourText": "Tu texto",
+  "wordsAndSentences": "{words} palabras · {sentences} oraciones",
+  "editText": "Editar el texto",
+  "placeholder": "Pega aquí el texto que quieres analizar — basta un párrafo, 120 palabras para una puntuación estable.",
+  "clear": "Borrar",
+  "measuring": "Midiendo…",
+  "measureCta": "Medir la legibilidad",
+  "measuringSkeleton": "Midiendo la legibilidad…",
+  "hint": {
+    "unstable": "{n} palabras más para una puntuación estable",
+    "stable": "suficientemente largo"
+  },
+  "legendLabel": {
+    "toLighten": "Por aligerar",
+    "nothingToReport": "Nada que señalar"
+  },
+  "demoText": "La aplicación de esta metodología de transformación, aprobada por todas las partes interesadas en el comité de dirección del mes pasado, exige una optimización previa esencial de los procesos operativos existentes en todos los departamentos afectados. Los resultados se esperan pronto. El paradigma colaborativo ya se considera un requisito estructural por los departamentos implicados. Seguimos avanzando."
+}

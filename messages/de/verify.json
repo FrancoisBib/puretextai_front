@@ -1,0 +1,117 @@
+{
+  "heading": "Bevor Sie abgeben,",
+  "headingEmphasis": "prüfen Sie.",
+  "subheading": "Markierte Stellen werden genau an der Stelle in Ihrem Text gezeigt. Sie springen von einem Fund zum nächsten, genau wie in der Korrektur – und nichts ändert sich ohne Ihre Zustimmung.",
+  "yourText": "Ihr Text",
+  "wordsSentences": "{words} Wörter · {sentences} Sätze",
+  "editText": "Text bearbeiten",
+  "placeholder": "Fügen Sie hier den zu prüfenden Text ein – mindestens 120 Wörter für ein verlässliches Ergebnis.",
+  "clear": "Löschen",
+  "overCap": "Analyse im kostenlosen Tarif auf 500 Wörter pro Durchlauf begrenzt.",
+  "viewPricing": "Tarife ansehen",
+  "run": "Text prüfen",
+  "hint": {
+    "moreWords": "{n} weitere Wörter für ein verlässliches Ergebnis",
+    "enough": "Lang genug"
+  },
+  "dontFlag": "Dies nicht markieren",
+  "categories": {
+    "rythme": "Rhythmus",
+    "connecteur": "Konnektor",
+    "tournure": "Formulierung",
+    "source": "Quelle"
+  },
+  "legend": {
+    "rythme": "Gleichförmiger Rhythmus",
+    "connecteur": "Konnektor",
+    "tournure": "Generische Formulierung",
+    "source": "Anderweitig gefunden"
+  },
+  "legendLabel": {
+    "hasFindings": "Klicken Sie auf eine Passage",
+    "none": "Legende"
+  },
+  "findingTitle": {
+    "rythme": "{n} Sätze fast identischer Länge",
+    "connecteur": "„{term}“ – ein schablonenhaftes Bindewort",
+    "tournure": "„{term}“ – formelhafte Wendung",
+    "source": "{pct}% des Textes in einer veröffentlichten Quelle gefunden"
+  },
+  "findingWhy": {
+    "rythme": "Einheitliche Länge über so viele Sätze ist das häufigste Merkmal automatisierten Schreibens. Zwei Sätze zu verbinden und einen anderen zu teilen reicht oft, um die Gleichförmigkeit zu brechen.",
+    "connecteur": "Diese Bindewörter tauchen in generierten Texten gehäuft auf. Im Sprechen wie im Schreiben verbinden Menschen Ideen meist ohne Konnektor oder mit einem einfachen „aber“.",
+    "tournure": "Diese Wendung fügt keine Information hinzu: Sie kündigt die Idee an, statt sie auszusprechen. Sie zu streichen macht den Satz kürzer und schärfer.",
+    "source": "Diese Passage existiert bereits anderweitig. Stammt die Idee aus dieser Quelle, zitieren Sie sie – ein Zitat beseitigt das Problem ohne jede Umformulierung."
+  },
+  "actLabel": {
+    "rythme": "Rhythmus variieren",
+    "connecteur": "Satz umformulieren",
+    "tournure": "Satz umformulieren",
+    "source": "Referenz kopieren"
+  },
+  "similarity": {
+    "heading": "Ähnlichkeit",
+    "searching": "Quellen werden online gesucht …",
+    "foundElsewhere": "des Textes anderweitig gefunden",
+    "seeInText": "Im Text ansehen",
+    "copyReference": "Referenz kopieren",
+    "noMatch": "Keine signifikante Passage gefunden. Übereinstimmungen unter acht aufeinanderfolgenden Wörtern werden nicht markiert: Das sind geläufige Wendungen, keine Übernahmen.",
+    "sourceLabel": "{n, plural, one {# Passage gefunden} other {# Passagen gefunden}}",
+    "sourceLabelEmpty": "Vergleichsergebnis"
+  },
+  "simStatus": {
+    "loading": "läuft",
+    "done": "externes Korpus",
+    "idle": "nicht ausgeführt"
+  },
+  "simVerdict": {
+    "high": "Hohe Ähnlichkeit",
+    "some": "Einige Überschneidungen",
+    "onePassage": "Eine zu zitierende Passage",
+    "none": "Keine signifikante Übernahme"
+  },
+  "simVerdictSub": {
+    "high": "Ein erheblicher Anteil des Textes existiert bereits anderweitig. Zitieren Sie Ihre Quellen oder formulieren Sie um.",
+    "some": "Kurze Passagen überschneiden sich mit veröffentlichten Quellen – oft legitim, wenn zitiert.",
+    "onePassage": "Der Anteil ist klein, doch die Passage stammt aus einer identifizierbaren Quelle: Ein Zitat klärt es.",
+    "none": "Nichts Vergleichbares im konsultierten Korpus gefunden."
+  },
+  "demoText": "Künstliche Intelligenz spielt inzwischen eine zentrale Rolle bei der Erstellung schriftlicher Inhalte in Unternehmen. Es ist festzuhalten, dass diese Werkzeuge die Arbeitsweise von Redaktionsteams grundlegend verändern. Darüber hinaus ermöglicht die Generierungsgeschwindigkeit, im gleichen Zeitraum mehr Texte zu veröffentlichen. Professionelle Autorinnen und Autoren müssen daher den Wert überdenken, den sie jenseits der reinen Produktion einbringen. Zudem bleibt die Frage der Zuverlässigkeit generierter Informationen breit diskutiert. Diese Technologie spielt eine entscheidende Rolle dabei, wie Organisationen mit ihrem Publikum kommunizieren. Doch keine Maschine ersetzt bislang das redaktionelle Urteilsvermögen einer erfahrenen Fachkraft. In der heutigen Welt wird die Beherrschung dieser Werkzeuge zu einer erwarteten beruflichen Kompetenz. Unternehmen, die diesen Wandel vorwegnehmen, haben einen echten Wettbewerbsvorteil in ihren Märkten.",
+  "emptyState": {
+    "title": "Ähnlichkeit erscheint hier",
+    "note": "Schreibbefunde erscheinen dagegen direkt in Ihrem Text – klicken Sie auf eine markierte Passage, um sie zu öffnen.",
+    "action": "Beispieltext laden"
+  },
+  "quota": {
+    "signedIn": "Diesen Monat noch 3 übrig.",
+    "anonymous": "1 kostenlose Analyse ohne Konto."
+  },
+  "verdict": {
+    "level": {
+      "low": "Niedrig",
+      "moderate": "Mittel",
+      "high": "Hoch",
+      "veryHigh": "Sehr hoch"
+    },
+    "title": {
+      "low": "Ihr Text wirkt wie menschlich geschrieben",
+      "moderate": "Einige Regelmäßigkeiten erkannt, nichts Systematisches",
+      "high": "Mehrere Marker automatisierten Schreibens",
+      "veryHigh": "Marker automatisierten Schreibens häufen sich"
+    },
+    "analyzing": "Wird analysiert …",
+    "numAnalyzing": "wird analysiert …",
+    "subNoFindings": "Nichts zu prüfen.",
+    "subFindingsCount": "{count, plural, one {# Fund} other {# Funde}} zu prüfen",
+    "subRhythm": " · Rhythmus zu gleichförmig",
+    "subPhrasing": " · {count, plural, one {# Formulierung} other {# Formulierungen}}",
+    "scoreLabel": "Score {score}/100",
+    "scoreTooltip": "Gewichteter Mittelwert der vier gemessenen Signale. Ein Score, keine Wahrscheinlichkeit.",
+    "actionCorrect": "Zur Korrektur",
+    "actionHumanize": "Diesen Text humanisieren"
+  },
+  "fromHuman": {
+    "note": "Text soeben humanisiert",
+    "back": "Zurück zur Humanisierung"
+  }
+}

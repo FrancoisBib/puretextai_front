@@ -1,0 +1,27 @@
+{
+  "heading": "Tel uw woorden",
+  "headingEmphasis": "en tekens.",
+  "subheading": "De telling wordt bijgewerkt terwijl u typt. Er wordt niets verzonden: alles wordt berekend in uw browser.",
+  "yourText": "Uw tekst",
+  "clear": "Wissen",
+  "placeholder": "Begin met schrijven of plak uw tekst — de telling volgt.",
+  "wordsUnit": "{n, plural, one {woord} other {woorden}}",
+  "readabilityHint": "Het aantal woorden zegt niets over hoe gemakkelijk een tekst leest. Meet daarvoor de leesbaarheid.",
+  "testReadability": "Test leesbaarheid",
+  "stats": {
+    "chars": "tekens",
+    "charsNoSpace": "zonder spaties",
+    "sentences": "{n, plural, one {zin} other {zinnen}}",
+    "paragraphs": "{n, plural, one {alinea} other {alinea's}}",
+    "readingTime": "leestijd",
+    "spokenTime": "uitgesproken"
+  },
+  "duration": {
+    "short": "{s}s",
+    "long": "{m}m {s}s"
+  },
+  "mobileBar": {
+    "chars": "tekens",
+    "details": "Details ↑"
+  }
+}

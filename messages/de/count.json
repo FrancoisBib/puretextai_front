@@ -1,0 +1,27 @@
+{
+  "heading": "Zählen Sie Ihre Wörter",
+  "headingEmphasis": "und Zeichen.",
+  "subheading": "Die Zählung aktualisiert sich beim Tippen. Nichts wird übertragen: Alles wird in Ihrem Browser berechnet.",
+  "yourText": "Ihr Text",
+  "clear": "Löschen",
+  "placeholder": "Beginnen Sie zu schreiben oder fügen Sie Ihren Text ein – die Zählung folgt automatisch.",
+  "wordsUnit": "{n, plural, one {Wort} other {Wörter}}",
+  "readabilityHint": "Die Wortzahl sagt nichts darüber aus, wie leicht ein Text zu lesen ist. Messen Sie dazu die Lesbarkeit.",
+  "testReadability": "Lesbarkeit testen",
+  "stats": {
+    "chars": "Zeichen",
+    "charsNoSpace": "ohne Leerzeichen",
+    "sentences": "{n, plural, one {Satz} other {Sätze}}",
+    "paragraphs": "{n, plural, one {Absatz} other {Absätze}}",
+    "readingTime": "Lesezeit",
+    "spokenTime": "Vorlesezeit"
+  },
+  "duration": {
+    "short": "{s}s",
+    "long": "{m}m {s}s"
+  },
+  "mobileBar": {
+    "chars": "Zeichen",
+    "details": "Details ↑"
+  }
+}

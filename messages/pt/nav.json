@@ -1,0 +1,17 @@
+{
+  "correct": "Correção",
+  "human": "Humanizar",
+  "verify": "Verificar",
+  "read": "Legibilidade",
+  "count": "Contador",
+  "pricing": "Preços",
+  "profile": "Perfil",
+  "history": "Histórico",
+  "notes": {
+    "correct": "Erros, concordância, pontuação",
+    "human": "Reescrito no tom escolhido",
+    "verify": "Sinais de IA e similaridade",
+    "read": "Esforço exigido ao leitor",
+    "count": "Palavras, caracteres, tempo de leitura"
+  }
+}

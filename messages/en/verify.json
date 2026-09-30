@@ -1,0 +1,117 @@
+{
+  "heading": "Before you submit,",
+  "headingEmphasis": "check it.",
+  "subheading": "What gets flagged is shown at the exact spot in your text. You move from one finding to the next, just like in Correction — and nothing changes without your say-so.",
+  "yourText": "Your text",
+  "wordsSentences": "{words} words · {sentences} sentences",
+  "editText": "Edit the text",
+  "placeholder": "Paste the text to check here — at least 120 words for a reliable result.",
+  "clear": "Clear",
+  "overCap": "Analysis limited to 500 words per scan on the free plan.",
+  "viewPricing": "See plans",
+  "run": "Check the text",
+  "hint": {
+    "moreWords": "{n} more words for a reliable result",
+    "enough": "Long enough"
+  },
+  "dontFlag": "Don't flag this",
+  "categories": {
+    "rythme": "Rhythm",
+    "connecteur": "Connector",
+    "tournure": "Phrasing",
+    "source": "Source"
+  },
+  "legend": {
+    "rythme": "Regular rhythm",
+    "connecteur": "Connector",
+    "tournure": "Generic phrasing",
+    "source": "Found elsewhere"
+  },
+  "legendLabel": {
+    "hasFindings": "Click a passage",
+    "none": "Legend"
+  },
+  "findingTitle": {
+    "rythme": "{n} sentences of almost identical length",
+    "connecteur": "“{term}” — a templated hinge word",
+    "tournure": "“{term}” — boilerplate phrasing",
+    "source": "{pct}% of the text found in a published source"
+  },
+  "findingWhy": {
+    "rythme": "Regular length across this many sentences is the most common marker of automated writing. Merging two and splitting another is often enough to break the regularity.",
+    "connecteur": "These hinge words show up heavily in generated text. In speech as in writing, people most often connect ideas without a connector, or with a simple “but”.",
+    "tournure": "This phrasing adds no information: it announces the idea instead of stating it. Removing it makes the sentence shorter and sharper.",
+    "source": "This passage already exists elsewhere. If the idea comes from this source, cite it — citing it removes the issue without rewriting anything."
+  },
+  "actLabel": {
+    "rythme": "Vary the rhythm",
+    "connecteur": "Rephrase the sentence",
+    "tournure": "Rephrase the sentence",
+    "source": "Copy the reference"
+  },
+  "similarity": {
+    "heading": "Similarity",
+    "searching": "Searching for sources online…",
+    "foundElsewhere": "of the text found elsewhere",
+    "seeInText": "See in text",
+    "copyReference": "Copy the reference",
+    "noMatch": "No significant passage found. Matches shorter than eight consecutive words aren't flagged: those are common turns of phrase, not borrowing.",
+    "sourceLabel": "{n, plural, one {# passage found} other {# passages found}}",
+    "sourceLabelEmpty": "Comparison result"
+  },
+  "simStatus": {
+    "loading": "in progress",
+    "done": "external corpus",
+    "idle": "not run"
+  },
+  "simVerdict": {
+    "high": "High similarity",
+    "some": "A few overlaps",
+    "onePassage": "One passage to cite",
+    "none": "No significant borrowing"
+  },
+  "simVerdictSub": {
+    "high": "A notable share of the text already exists elsewhere. Cite your sources or rephrase.",
+    "some": "Short passages overlap with published sources — often legitimate if cited.",
+    "onePassage": "The share is small, but the passage comes from an identifiable source: a citation settles it.",
+    "none": "Nothing comparable found in the corpus consulted."
+  },
+  "demoText": "Artificial intelligence now plays a central role in producing written content within companies. It should be noted that these tools are profoundly transforming how editorial teams work. Furthermore, the speed of generation makes it possible to publish more texts over the same period. Professional writers must therefore rethink the value they bring beyond simple production. In addition, the question of the reliability of generated information remains widely debated. This technology plays a decisive role in how organizations communicate with their audiences. However, no machine yet replaces the editorial judgment of an experienced professional in the field. In today's world, mastering these tools is becoming an expected professional skill. Companies that anticipate this shift have a real competitive edge in their markets.",
+  "emptyState": {
+    "title": "Similarity shows up here",
+    "note": "Writing findings, on the other hand, appear directly in your text — click a flagged passage to open them.",
+    "action": "Load a sample text"
+  },
+  "quota": {
+    "signedIn": "3 remaining this month.",
+    "anonymous": "1 free analysis without an account."
+  },
+  "verdict": {
+    "level": {
+      "low": "Low",
+      "moderate": "Moderate",
+      "high": "High",
+      "veryHigh": "Very high"
+    },
+    "title": {
+      "low": "Your text behaves like human writing",
+      "moderate": "A few regularities spotted, nothing systematic",
+      "high": "Several automated-writing markers",
+      "veryHigh": "Automated-writing markers are piling up"
+    },
+    "analyzing": "Analyzing…",
+    "numAnalyzing": "analyzing…",
+    "subNoFindings": "Nothing to review.",
+    "subFindingsCount": "{count, plural, one {# finding} other {# findings}} to review",
+    "subRhythm": " · rhythm too regular",
+    "subPhrasing": " · {count, plural, one {# phrasing} other {# phrasings}}",
+    "scoreLabel": "score {score}/100",
+    "scoreTooltip": "Weighted average of the four measured signals. A score, not a probability.",
+    "actionCorrect": "Go to correction",
+    "actionHumanize": "Humanize this text"
+  },
+  "fromHuman": {
+    "note": "Text humanised a moment ago",
+    "back": "Back to humanisation"
+  }
+}

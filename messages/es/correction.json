@@ -1,0 +1,44 @@
+{
+  "heading": "Una redacción impecable,",
+  "headingEmphasis": "sin una sola falta.",
+  "subheading": "Haz clic en una palabra subrayada de tu texto: la regla aparece justo donde está el problema. Aplícala o descártala.",
+  "overCap": "Corrección limitada a 300 palabras por texto en el plan gratuito.",
+  "viewPricing": "Ver los planes",
+  "runAnalysis": "Ejecutar el análisis",
+  "analyzing": "Analizando…",
+  "ignoreAll": "Descartar todo",
+  "applyAllCount": "Corregir todo ({count})",
+  "yourText": "Tu texto",
+  "status": {
+    "notRun": "Análisis no ejecutado",
+    "noSuggestion": "Sin sugerencias",
+    "suggestionCount": "{count, plural, one {# sugerencia} other {# sugerencias}}"
+  },
+  "clear": "Borrar",
+  "copy": "Copiar",
+  "copied": "Copiado ✓",
+  "categories": {
+    "Tout": "Todo",
+    "Orthographe": "Ortografía",
+    "Grammaire": "Gramática",
+    "Style": "Estilo",
+    "Vocabulaire": "Vocabulario",
+    "Ponctuation": "Puntuación"
+  },
+  "apply": "Aplicar",
+  "ignore": "Descartar",
+  "review": "Revisar",
+  "progress": "{done} de {total} tratadas",
+  "analyzingSkeleton": "Analizando tu texto…",
+  "seeInText": "Ver en el texto",
+  "testReadability": "Medir la legibilidad →",
+  "empty": {
+    "errorTitle": "El análisis ha fallado",
+    "idleTitle": "Análisis no ejecutado",
+    "idleNote": "Ejecuta el análisis para encontrar los errores de tu texto.",
+    "cleanTitle": "Tu texto está impecable",
+    "cleanNote": "Tu texto es correcto. Ahora veamos si es claro.",
+    "noneTitle": "Nada que señalar",
+    "noneNote": "No se han encontrado errores en este texto para el filtro activo."
+  }
+}

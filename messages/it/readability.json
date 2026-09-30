@@ -1,0 +1,94 @@
+{
+  "heading": "Test di leggibilità",
+  "headingEmphasis": "per un testo.",
+  "subheading": "Misuriamo lo sforzo richiesto al lettore: lunghezza delle frasi, parole complesse, voce passiva, gergo. Niente viene riscritto — i passaggi costosi sono mostrati proprio dove si trovano.",
+  "categories": {
+    "longue": "Frase lunga",
+    "passive": "Voce passiva",
+    "jargon": "Gergo"
+  },
+  "findingWhy": {
+    "longue": "{n} parole in un fiato. Oltre le 25, il lettore perde il soggetto prima di arrivare al verbo — tagli al primo connettivo.",
+    "jargon": "«{terms}»: termini astratti che richiedono decodifica. Una parola concreta dice lo stesso più in fretta.",
+    "passive": "La frase nasconde chi agisce. Alla voce attiva è più breve, e il lettore sa chi fa cosa."
+  },
+  "levels": {
+    "veryEasy": { "name": "Molto facile da leggere", "grade": "livello scuola media" },
+    "comfortable": { "name": "Lettura confortevole", "grade": "livello scuola superiore" },
+    "demanding": { "name": "Lettura impegnativa", "grade": "livello universitario" },
+    "difficult": { "name": "Lettura difficile", "grade": "livello post-laurea e oltre" }
+  },
+  "signals": {
+    "sentenceLength": {
+      "name": "Lunghezza delle frasi",
+      "metric": "{asl} parole in media",
+      "note": {
+        "0": "Ben oltre la lettura confortevole (da 15 a 20 parole).",
+        "1": "Un po' lungo: il lettore può seguire, ma senza margine.",
+        "2": "Nella zona confortevole."
+      }
+    },
+    "complexWords": {
+      "name": "Parole complesse",
+      "metric": "{pct}% del testo",
+      "note": {
+        "0": "Molte parole di quattro o più sillabe.",
+        "1": "Densità ragionevole per un testo specialistico.",
+        "2": "Vocabolario accessibile."
+      }
+    },
+    "passiveVoice": {
+      "name": "Voce passiva",
+      "metric": "{n, plural, one {# frase} other {# frasi}}",
+      "note": {
+        "0": "Il soggetto dell'azione scompare troppo spesso.",
+        "1": "Uso occasionale, accettabile.",
+        "2": "Nessuna: le frasi dicono chi agisce."
+      }
+    },
+    "jargon": {
+      "name": "Gergo",
+      "metric": "{n, plural, one {# termine} other {# termini}}",
+      "note": {
+        "0": "Abbastanza per perdere un lettore non esperto.",
+        "1": "Alcuni termini astratti, individuati nel testo.",
+        "2": "Nessun termine astratto rilevato."
+      }
+    }
+  },
+  "summary": {
+    "some": "{n, plural, one {# frase da alleggerire} other {# frasi da alleggerire}} · {asl} parole per frase in media",
+    "none": "Frasi brevi, vocabolario diretto: niente da alleggerire."
+  },
+  "scoreTooltip": "Indice di leggibilità Kandel-Moles, calibrato per testi in italiano.",
+  "goToCorrect": "Vai alla Correzione",
+  "seeInText": "Vedi nel testo",
+  "queueLabel": "{n, plural, one {# frase da alleggerire} other {# frasi da alleggerire}}",
+  "queueLabelEmpty": "Frasi da alleggerire",
+  "queueEmptyNote": "Nessuna frase supera la soglia di carico. Il testo si legge in un fiato.",
+  "signalsHeading": "Cosa costa al lettore",
+  "signalsSubheading": "Quattro misure, dalla più alla meno penalizzante.",
+  "correctThisSentence": "Correggi questa frase",
+  "emptyState": {
+    "title": "Il punteggio appare qui",
+    "note": "Insieme alle quattro misure che lo compongono e alle frasi da alleggerire per prime.",
+    "action": "Carica un testo di esempio"
+  },
+  "yourText": "Il Suo testo",
+  "wordsAndSentences": "{words} parole · {sentences} frasi",
+  "editText": "Modifica il testo",
+  "placeholder": "Incolli qui il testo da testare — basta un paragrafo, 120 parole per un punteggio stabile.",
+  "clear": "Cancella",
+  "measuring": "Misurazione…",
+  "measureCta": "Misura la leggibilità",
+  "measuringSkeleton": "Misurazione della leggibilità…",
+  "hint": {
+    "unstable": "{n} parole in più per un punteggio stabile",
+    "stable": "abbastanza lungo"
+  },
+  "legendLabel": {
+    "toLighten": "Da alleggerire",
+    "nothingToReport": "Niente da segnalare"
+  },
+  "demoText": "L'applicazione di questa metodologia di trasformazione, approvata da tutti i portatori di interesse durante la riunione del comitato direttivo del mese scorso, richiede un'essenziale ottimizzazione preliminare dei processi operativi esistenti in ogni dipartimento coinvolto. I risultati sono attesi a breve. Il paradigma collaborativo è ormai considerato un prerequisito strutturale dai dipartimenti coinvolti. Andiamo avanti."
+}

@@ -1,0 +1,47 @@
+{
+  "metaTitle": "Tarife und Preise",
+  "metaDescription": "Jedes PureText-AI-Tool ist kostenlos – Korrektur, Humanisierung, Prüfung, Lesbarkeit und Wortzählung. Studio (€4.99/Monat) hebt die Volumenbegrenzungen auf und schaltet die maximale Intensität frei.",
+  "ogTitle": "Tarife und Preise · PureText AI",
+  "ogDescription": "Alles ist kostenlos. Studio hebt die Volumenbegrenzungen auf und schaltet die maximale Intensität frei – ab €3.33 pro Monat.",
+  "heading": "Alles ist kostenlos.",
+  "headingEmphasis": "Studio hebt die Limits auf.",
+  "subheading": "Kein Tool ist hinter einem Abo versteckt: Korrektur, Prüfung, Lesbarkeit und Wortzähler sind alle kostenlos nutzbar. Studio beseitigt die Volumenbegrenzungen und schaltet die maximale Intensität frei.",
+  "free": {
+    "label": "Gratis",
+    "forever": "für immer",
+    "description": "Keine Kreditkarte erforderlich. Reicht für eine Hausarbeit, einen Artikel oder einen Brief.",
+    "cta": "Zurück zu Gratis wechseln",
+    "ctaActive": "Ihr aktueller Tarif"
+  },
+  "studio": {
+    "label": "Studio",
+    "recommended": "Empfohlen",
+    "perMonth": "pro Monat",
+    "billingNote": "Oder €39.99 pro Jahr, also €3.33 pro Monat. Jederzeit kündbar.",
+    "cta": "Zu Studio wechseln",
+    "ctaActive": "Aktiver Tarif"
+  },
+  "rows": {
+    "readCount": { "name": "Lesbarkeit und Zähler", "free": "unbegrenzt", "studio": "unbegrenzt" },
+    "correction": {
+      "name": "Korrektur",
+      "free": "300 Wörter pro Text, unbegrenzte Texte",
+      "studio": "unbegrenzt, ohne Längenbegrenzung"
+    },
+    "humanize": {
+      "name": "Humanisierung",
+      "free": "Intensitäten Leicht und Ausgewogen, 300 Wörter",
+      "studio": "alle drei Intensitäten, ohne Begrenzung"
+    },
+    "verify": {
+      "name": "Prüfung",
+      "free": "3 Analysen pro Monat, 500 Wörter pro Analyse",
+      "studio": "unbegrenzt, 5.000 Wörter pro Analyse"
+    },
+    "sources": {
+      "name": "Gefundene Quellen",
+      "free": "Score und Anzahl der Passagen",
+      "studio": "exakte Links und Passagen"
+    }
+  }
+}

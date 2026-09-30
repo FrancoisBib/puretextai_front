@@ -1,0 +1,27 @@
+{
+  "extension": {
+    "title": "Extensão · texto selecionado",
+    "selectionLabel": "Seleção",
+    "selectionDemo": "Além disso, importa salientar que as organizações devem imperativamente adaptar-se a este novo paradigma tecnológico.",
+    "correct": "Corrigir",
+    "humanize": "Humanizar",
+    "tone": "Tom",
+    "replace": "Substituir",
+    "copy": "Copiar",
+    "copied": "Copiado ✓",
+    "close": "Fechar",
+    "label": {
+      "correct": "Corrigido",
+      "humanize": "Humanizado"
+    },
+    "labelTone": "Tom {tone}",
+    "metaRules": "2 regras aplicadas",
+    "metaTone": "Tom {tone}",
+    "metaReformulated": "reformulado",
+    "demoOutput": {
+      "correct": "Além disso, importa salientar que as organizações devem imperativamente adaptar-se a este novo paradigma tecnológico.",
+      "humanize": "As organizações já não têm verdadeiramente escolha: têm de acompanhar.",
+      "tone": "As organizações precisam de se adaptar, e depressa: esta mudança não vai esperar por elas."
+    }
+  }
+}

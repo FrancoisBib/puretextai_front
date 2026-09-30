@@ -1,0 +1,117 @@
+{
+  "heading": "Avant de rendre,",
+  "headingEmphasis": "vérifiez.",
+  "subheading": "Ce qui est signalé est montré à l'endroit exact dans votre texte. Vous passez d'un constat au suivant, comme en correction — et rien n'est modifié sans votre accord.",
+  "yourText": "Votre texte",
+  "wordsSentences": "{words} mots · {sentences} phrases",
+  "editText": "Modifier le texte",
+  "placeholder": "Collez ici le texte à vérifier — au moins 120 mots pour un résultat exploitable.",
+  "clear": "Effacer",
+  "overCap": "Analyse limitée à 500 mots par scan en gratuit.",
+  "viewPricing": "Voir les formules",
+  "run": "Vérifier le texte",
+  "hint": {
+    "moreWords": "Encore {n} mots pour un résultat fiable",
+    "enough": "Longueur suffisante"
+  },
+  "dontFlag": "Ne pas signaler",
+  "categories": {
+    "rythme": "Rythme",
+    "connecteur": "Connecteur",
+    "tournure": "Tournure",
+    "source": "Source"
+  },
+  "legend": {
+    "rythme": "Rythme régulier",
+    "connecteur": "Connecteur",
+    "tournure": "Tournure générique",
+    "source": "Retrouvé ailleurs"
+  },
+  "legendLabel": {
+    "hasFindings": "Cliquez un passage",
+    "none": "Légende"
+  },
+  "findingTitle": {
+    "rythme": "{n} phrases de longueur presque identique",
+    "connecteur": "« {term} » — charnière de modèle",
+    "tournure": "« {term} » — formule passe-partout",
+    "source": "{pct}% du texte retrouvé dans une source publiée"
+  },
+  "findingWhy": {
+    "rythme": "Une longueur régulière sur autant de phrases est le marqueur le plus fréquent d'une rédaction automatique. En fusionner deux et en couper une autre suffit souvent à casser la régularité.",
+    "connecteur": "Ces articulations reviennent massivement dans les textes générés. À l'oral comme à l'écrit, on enchaîne le plus souvent sans connecteur, ou avec un « mais » simple.",
+    "tournure": "Cette tournure n'ajoute aucune information : elle annonce l'idée au lieu de la dire. La retirer rend la phrase plus courte et plus nette.",
+    "source": "Ce passage existe déjà ailleurs. Si l'idée vient de cette source, citez-la — la citation supprime le problème sans rien réécrire."
+  },
+  "actLabel": {
+    "rythme": "Varier le rythme",
+    "connecteur": "Reformuler la phrase",
+    "tournure": "Reformuler la phrase",
+    "source": "Copier la référence"
+  },
+  "similarity": {
+    "heading": "Similarité",
+    "searching": "Recherche de sources en ligne…",
+    "foundElsewhere": "du texte retrouvé ailleurs",
+    "seeInText": "Voir dans le texte",
+    "copyReference": "Copier la référence",
+    "noMatch": "Aucun passage significatif retrouvé. Les correspondances de moins de huit mots consécutifs ne sont pas signalées : ce sont des tournures communes, pas des emprunts.",
+    "sourceLabel": "{n, plural, one {# passage trouvé} other {# passages trouvés}}",
+    "sourceLabelEmpty": "Résultat de la comparaison"
+  },
+  "simStatus": {
+    "loading": "en cours",
+    "done": "corpus externe",
+    "idle": "non lancée"
+  },
+  "simVerdict": {
+    "high": "Similarité élevée",
+    "some": "Quelques recoupements",
+    "onePassage": "Un passage à citer",
+    "none": "Aucun emprunt significatif"
+  },
+  "simVerdictSub": {
+    "high": "Une part notable du texte existe déjà ailleurs. Citez vos sources ou reformulez.",
+    "some": "Des passages courts recoupent des sources publiées — souvent légitime si c'est cité.",
+    "onePassage": "La part est faible, mais le passage vient d'une source identifiable : une citation suffit à régler le point.",
+    "none": "Rien de comparable trouvé dans le corpus consulté."
+  },
+  "demoText": "L'intelligence artificielle occupe aujourd'hui une place centrale dans la production de contenus écrits en entreprise. Il est important de noter que ces outils transforment profondément les méthodes de travail des équipes éditoriales. En outre, la rapidité de génération permet de publier davantage de textes sur une même période. Les rédacteurs professionnels doivent donc repenser la valeur qu'ils apportent au-delà de la simple production. Par ailleurs, la question de la fiabilité des informations générées reste un sujet largement débattu. Cette technologie joue un rôle déterminant dans la manière dont les organisations communiquent avec leurs publics. Toutefois, aucune machine ne remplace encore le jugement éditorial d'un professionnel expérimenté du secteur. Dans le monde d'aujourd'hui, la maîtrise de ces outils devient une compétence professionnelle attendue. Les entreprises qui anticipent cette évolution disposent d'un avantage concurrentiel réel sur leurs marchés.",
+  "emptyState": {
+    "title": "La similarité arrive ici",
+    "note": "Les constats de rédaction, eux, s'affichent directement dans votre texte — un clic sur un passage signalé les ouvre.",
+    "action": "Charger un texte d'exemple"
+  },
+  "quota": {
+    "signedIn": "3 restantes ce mois-ci.",
+    "anonymous": "1 analyse offerte sans compte."
+  },
+  "verdict": {
+    "level": {
+      "low": "Faible",
+      "moderate": "Modéré",
+      "high": "Élevé",
+      "veryHigh": "Très élevé"
+    },
+    "title": {
+      "low": "Votre texte se comporte comme une écriture humaine",
+      "moderate": "Quelques régularités repérées, rien de systématique",
+      "high": "Plusieurs marqueurs de rédaction automatique",
+      "veryHigh": "Les marqueurs de rédaction automatique s'accumulent"
+    },
+    "analyzing": "Analyse en cours…",
+    "numAnalyzing": "analyse en cours…",
+    "subNoFindings": "Aucun constat à traiter.",
+    "subFindingsCount": "{count, plural, one {# constat} other {# constats}} à passer en revue",
+    "subRhythm": " · rythme trop régulier",
+    "subPhrasing": " · {count, plural, one {# formulation} other {# formulations}}",
+    "scoreLabel": "indice {score}/100",
+    "scoreTooltip": "Moyenne pondérée des quatre signaux mesurés. Un indice, pas une probabilité.",
+    "actionCorrect": "Passer à la correction",
+    "actionHumanize": "Humaniser ce texte"
+  },
+  "fromHuman": {
+    "note": "Texte humanisé il y a un instant",
+    "back": "Revenir à l'humanisation"
+  }
+}

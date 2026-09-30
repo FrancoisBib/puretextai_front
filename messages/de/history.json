@@ -1,0 +1,22 @@
+{
+  "title": "Verlauf",
+  "subtitle": "Ihre letzten Arbeiten – Korrekturen wie Humanisierungen.",
+  "loading": "Verlauf wird geladen …",
+  "retry": "Erneut versuchen",
+  "loadMore": "Mehr laden",
+  "loadingMore": "Wird geladen …",
+  "empty": "Noch kein Verlauf.",
+  "columns": {
+    "date": "Datum",
+    "excerpt": "Auszug",
+    "module": "Modul",
+    "words": "Wörter",
+    "ai": "KI"
+  },
+  "modules": {
+    "correct": "Korrektur",
+    "humanize": "Humanisierung",
+    "detect": "KI-Prüfung",
+    "similarity": "Ähnlichkeit"
+  }
+}

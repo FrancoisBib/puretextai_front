@@ -1,0 +1,23 @@
+{
+  "title": "Profiel",
+  "loading": "Profiel laden…",
+  "retry": "Opnieuw proberen",
+  "subscription": {
+    "label": "Abonnement",
+    "manage": "Abonnement beheren"
+  },
+  "quota": {
+    "label": "Maandelijks quotum",
+    "runsLeft": "{n, plural, one {# resterend} other {# resterend}} deze maand",
+    "unlimited": "Onbeperkt"
+  },
+  "preferences": {
+    "label": "Voorkeuren",
+    "defaultTone": "Standaardtoon",
+    "defaultIntensity": "Standaardintensiteit",
+    "language": "Taal",
+    "extension": "Browserextensie",
+    "extensionActive": "Actief",
+    "extensionInactive": "Inactief"
+  }
+}

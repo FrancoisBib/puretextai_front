@@ -1,0 +1,131 @@
+{
+  "heading": "Writing",
+  "headingEmphasis": "that sounds like you.",
+  "subheading": "Every rewritten sentence stays under your control: click it to read the original, keep it, or restore it.",
+  "overCap": "Humanization limited to 300 words per run on the free plan.",
+  "viewPricing": "See plans",
+  "cta": {
+    "busy": "Rewriting…",
+    "rerun": "Re-run humanization",
+    "run": "Humanize the text"
+  },
+  "tuneHint": {
+    "recalculated": "Recalculated on every change",
+    "onLaunch": "Applied on run"
+  },
+  "tuneHintShort": {
+    "recalculated": "recalculated on every change",
+    "onLaunch": "applied on run"
+  },
+  "intensity": {
+    "light": "Light",
+    "balanced": "Balanced",
+    "maximum": "Maximum"
+  },
+  "intensityNote": {
+    "light": "Touches up the most mechanical phrasing, keeps your sentence structure.",
+    "balanced": "Rewrites AI-sounding turns of phrase and varies the rhythm. The best compromise.",
+    "maximum": "Breaks academic syntax down deeply. Proofread the result before publishing."
+  },
+  "toneGroups": {
+    "Généraux": "General",
+    "Freelance": "Freelance",
+    "Étudiant": "Student"
+  },
+  "tones": {
+    "Professionnel": {
+      "label": "Professional",
+      "desc": "Neutral and clear, no jargon."
+    },
+    "Amical": {
+      "label": "Friendly",
+      "desc": "Warm, short sentences."
+    },
+    "Synthétique": {
+      "label": "Concise",
+      "desc": "Straight to the point, cuts the filler."
+    },
+    "Pitch Upwork/Malt": {
+      "label": "Upwork/Freelance pitch",
+      "desc": "Benefit- and client-ROI-oriented hook."
+    },
+    "Relance facture": {
+      "label": "Invoice reminder",
+      "desc": "Firm, polite, no apologizing."
+    },
+    "Email client pro": {
+      "label": "Professional client email",
+      "desc": "Courteous and direct, ready to send."
+    },
+    "Cahier des charges": {
+      "label": "Project brief",
+      "desc": "Factual and structured, no ambiguity."
+    },
+    "LinkedIn / réseaux": {
+      "label": "LinkedIn / social",
+      "desc": "Short rhythm, one idea per line."
+    },
+    "Vulgarisation académique": {
+      "label": "Academic explainer",
+      "desc": "Simplifies jargon without losing rigor."
+    },
+    "Mémoire / dissertation": {
+      "label": "Thesis / essay",
+      "desc": "Formal register, controlled connectors."
+    },
+    "Lettre de motivation": {
+      "label": "Cover letter",
+      "desc": "Engaged and precise, no empty phrasing."
+    }
+  },
+  "yourText": "Your text",
+  "viewLabel": "Document view",
+  "view": {
+    "source": "Source",
+    "result": "Result",
+    "diff": "Differences"
+  },
+  "clear": "Clear",
+  "copy": "Copy",
+  "copied": "Copied ✓",
+  "analyzingSkeleton": "Rewriting…",
+  "emptyNote": "Set the tone and intensity, then run the humanization.",
+  "sentence": {
+    "proposedPrefix": "Proposed rewrite · ",
+    "originalPrefix": "Original version · ",
+    "originalFallback": "This sentence did not exist in your text.",
+    "keepRewrite": "Keep the rewrite",
+    "restoreOriginal": "Restore the original",
+    "originalInPlace": "Original in place",
+    "rewriteInPlace": "Rewrite in place"
+  },
+  "diff": {
+    "head": "Sentence {n} · {tag}",
+    "originalRestored": " · original restored",
+    "noSentenceHere": "(no sentence at this position)",
+    "rewriteDiscarded": "— rewrite discarded —"
+  },
+  "kept": "{kept} of {total} kept",
+  "keptNone": "—",
+  "rewrite": {
+    "emptyWithOutput": "No rewrites for this text.",
+    "emptyNoOutput": "Run the humanization to see the proposed rewrites, one by one."
+  },
+  "intensityHeading": "{level} intensity",
+  "tonePickerLabel": "Tone",
+  "intensityPickerLabel": "Intensity",
+  "noDiffs": "No rewrites proposed for this text.",
+  "detectedBanner": "Text detected in <b>{from}</b> · translate then humanize it in {to}?",
+  "translateAndHumanize": "Translate + humanize",
+  "translatedDemoText": "Artificial intelligence has stopped being a distant promise. Teams that bring it into their processes today are gaining a lead that will be hard to catch up on. One simple question remains: where to start without breaking everything?",
+  "settings": "Settings",
+  "sheetTitle": "Tone and intensity",
+  "done": "Done",
+  "sidebarTitle": "Rewrites",
+  "seeInText": "See in text",
+  "nextStep": {
+    "title": "What next?",
+    "note": "Check that your text reads as human.",
+    "cta": "Run the check"
+  }
+}

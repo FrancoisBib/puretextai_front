@@ -1,0 +1,17 @@
+{
+  "correct": "Correctie",
+  "human": "Humaniseren",
+  "verify": "Verifiëren",
+  "read": "Leesbaarheid",
+  "count": "Teller",
+  "pricing": "Prijzen",
+  "profile": "Profiel",
+  "history": "Geschiedenis",
+  "notes": {
+    "correct": "Fouten, overeenstemming, interpunctie",
+    "human": "Herschreven in de gekozen toon",
+    "verify": "AI-signalen en overeenkomst",
+    "read": "Inspanning die van de lezer wordt gevraagd",
+    "count": "Woorden, tekens, leestijd"
+  }
+}

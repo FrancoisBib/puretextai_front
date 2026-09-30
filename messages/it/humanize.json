@@ -1,0 +1,131 @@
+{
+  "heading": "Una scrittura",
+  "headingEmphasis": "che sembra la Sua.",
+  "subheading": "Ogni frase riscritta resta sotto il Suo controllo: faccia clic per leggere l'originale, mantenerla o ripristinarla.",
+  "overCap": "Umanizzazione limitata a 300 parole per esecuzione nel piano gratuito.",
+  "viewPricing": "Vedi i piani",
+  "cta": {
+    "busy": "Riscrittura in corso…",
+    "rerun": "Esegua di nuovo l'umanizzazione",
+    "run": "Umanizzi il testo"
+  },
+  "tuneHint": {
+    "recalculated": "Ricalcolato a ogni modifica",
+    "onLaunch": "Applicato all'avvio"
+  },
+  "tuneHintShort": {
+    "recalculated": "ricalcolato a ogni modifica",
+    "onLaunch": "applicato all'avvio"
+  },
+  "intensity": {
+    "light": "Leggera",
+    "balanced": "Equilibrata",
+    "maximum": "Massima"
+  },
+  "intensityNote": {
+    "light": "Ritocca le formulazioni più meccaniche, conserva la struttura delle Sue frasi.",
+    "balanced": "Riscrive le espressioni tipiche dell'IA e varia il ritmo. Il miglior compromesso.",
+    "maximum": "Ristruttura in profondità la sintassi accademica. Rilegga il risultato prima di pubblicarlo."
+  },
+  "toneGroups": {
+    "Généraux": "Generali",
+    "Freelance": "Freelance",
+    "Étudiant": "Studente"
+  },
+  "tones": {
+    "Professionnel": {
+      "label": "Professionale",
+      "desc": "Neutro e chiaro, senza gergo."
+    },
+    "Amical": {
+      "label": "Amichevole",
+      "desc": "Caloroso, frasi brevi."
+    },
+    "Synthétique": {
+      "label": "Sintetico",
+      "desc": "Va dritto al punto, elimina il superfluo."
+    },
+    "Pitch Upwork/Malt": {
+      "label": "Pitch Upwork/freelance",
+      "desc": "Apertura orientata ai benefici e al ROI del cliente."
+    },
+    "Relance facture": {
+      "label": "Sollecito fattura",
+      "desc": "Fermo, cortese, senza scusarsi."
+    },
+    "Email client pro": {
+      "label": "Email professionale al cliente",
+      "desc": "Cortese e diretta, pronta da inviare."
+    },
+    "Cahier des charges": {
+      "label": "Capitolato tecnico",
+      "desc": "Fattuale e strutturato, senza ambiguità."
+    },
+    "LinkedIn / réseaux": {
+      "label": "LinkedIn / social",
+      "desc": "Ritmo breve, un'idea per riga."
+    },
+    "Vulgarisation académique": {
+      "label": "Divulgazione accademica",
+      "desc": "Semplifica il gergo senza perdere rigore."
+    },
+    "Mémoire / dissertation": {
+      "label": "Tesi / saggio",
+      "desc": "Registro formale, connettivi controllati."
+    },
+    "Lettre de motivation": {
+      "label": "Lettera di motivazione",
+      "desc": "Coinvolgente e precisa, senza frasi vuote."
+    }
+  },
+  "yourText": "Il Suo testo",
+  "viewLabel": "Vista del documento",
+  "view": {
+    "source": "Origine",
+    "result": "Risultato",
+    "diff": "Differenze"
+  },
+  "clear": "Cancella",
+  "copy": "Copia",
+  "copied": "Copiato ✓",
+  "analyzingSkeleton": "Riscrittura in corso…",
+  "emptyNote": "Imposti il tono e l'intensità, poi avvii l'umanizzazione.",
+  "sentence": {
+    "proposedPrefix": "Riformulazione proposta · ",
+    "originalPrefix": "Versione originale · ",
+    "originalFallback": "Questa frase non esisteva nel Suo testo.",
+    "keepRewrite": "Mantenga la riformulazione",
+    "restoreOriginal": "Ripristini l'originale",
+    "originalInPlace": "Originale al suo posto",
+    "rewriteInPlace": "Riformulazione al suo posto"
+  },
+  "diff": {
+    "head": "Frase {n} · {tag}",
+    "originalRestored": " · originale ripristinato",
+    "noSentenceHere": "(nessuna frase in questa posizione)",
+    "rewriteDiscarded": "— riformulazione scartata —"
+  },
+  "kept": "{kept} di {total} mantenute",
+  "keptNone": "—",
+  "rewrite": {
+    "emptyWithOutput": "Nessuna riformulazione per questo testo.",
+    "emptyNoOutput": "Avvii l'umanizzazione per vedere le riformulazioni proposte, una per una."
+  },
+  "intensityHeading": "Intensità {level}",
+  "tonePickerLabel": "Tono",
+  "intensityPickerLabel": "Intensità",
+  "noDiffs": "Nessuna riformulazione proposta per questo testo.",
+  "detectedBanner": "Testo rilevato in <b>{from}</b> · lo traduco e lo umanizzo in {to}?",
+  "translateAndHumanize": "Traduci + umanizza",
+  "translatedDemoText": "L'intelligenza artificiale ha smesso di essere una promessa lontana. I team che la integrano oggi nei loro processi stanno guadagnando un vantaggio difficile da colmare. Resta una semplice domanda: da dove iniziare senza stravolgere tutto?",
+  "settings": "Impostazioni",
+  "sheetTitle": "Tono e intensità",
+  "done": "Fatto",
+  "sidebarTitle": "Riformulazioni",
+  "seeInText": "Vedi nel testo",
+  "nextStep": {
+    "title": "E adesso?",
+    "note": "Verifichi che il Suo testo risulti umano.",
+    "cta": "Avvia la verifica"
+  }
+}

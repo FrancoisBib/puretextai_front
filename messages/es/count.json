@@ -1,0 +1,27 @@
+{
+  "heading": "Cuenta tus palabras",
+  "headingEmphasis": "y tus caracteres.",
+  "subheading": "El recuento se actualiza mientras escribes. Nada se envía a ningún sitio: todo se calcula en tu navegador.",
+  "yourText": "Tu texto",
+  "clear": "Borrar",
+  "placeholder": "Empieza a escribir o pega tu texto — el recuento te sigue.",
+  "wordsUnit": "{n, plural, one {palabra} other {palabras}}",
+  "readabilityHint": "El recuento de palabras no dice nada sobre lo fácil que es leer un texto. Para eso, mide la legibilidad.",
+  "testReadability": "Medir la legibilidad",
+  "stats": {
+    "chars": "caracteres",
+    "charsNoSpace": "sin espacios",
+    "sentences": "{n, plural, one {oración} other {oraciones}}",
+    "paragraphs": "{n, plural, one {párrafo} other {párrafos}}",
+    "readingTime": "tiempo de lectura",
+    "spokenTime": "en voz alta"
+  },
+  "duration": {
+    "short": "{s}s",
+    "long": "{m}min {s}s"
+  },
+  "mobileBar": {
+    "chars": "caract.",
+    "details": "Detalles ↑"
+  }
+}

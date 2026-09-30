@@ -1,0 +1,94 @@
+{
+  "heading": "Lesbarkeitstest",
+  "headingEmphasis": "für einen Text.",
+  "subheading": "Wir messen den Aufwand für die Leserschaft: Satzlänge, komplexe Wörter, Passiv, Fachjargon. Nichts wird umgeschrieben – die aufwendigen Passagen werden direkt an der Stelle gezeigt.",
+  "categories": {
+    "longue": "Langer Satz",
+    "passive": "Passiv",
+    "jargon": "Jargon"
+  },
+  "findingWhy": {
+    "longue": "{n} Wörter in einem Zug. Ab 25 verliert die Leserschaft das Subjekt, bevor sie beim Verb ankommt – trennen Sie beim ersten Konnektor.",
+    "jargon": "„{terms}“: abstrakte Begriffe, die erst entschlüsselt werden müssen. Ein konkretes Wort sagt dasselbe schneller.",
+    "passive": "Der Satz verbirgt, wer handelt. Im Aktiv ist er kürzer, und die Leserschaft weiß, wer was tut."
+  },
+  "levels": {
+    "veryEasy": { "name": "Sehr leicht zu lesen", "grade": "Mittelschulniveau" },
+    "comfortable": { "name": "Angenehme Lektüre", "grade": "Gymnasialniveau" },
+    "demanding": { "name": "Anspruchsvolle Lektüre", "grade": "Bachelor-Niveau" },
+    "difficult": { "name": "Schwierige Lektüre", "grade": "Master-Niveau und höher" }
+  },
+  "signals": {
+    "sentenceLength": {
+      "name": "Satzlänge",
+      "metric": "{asl} Wörter im Schnitt.",
+      "note": {
+        "0": "Deutlich über der angenehmen Lesbarkeit (15 bis 20 Wörter).",
+        "1": "Etwas lang: Die Leserschaft kann folgen, aber ohne Spielraum.",
+        "2": "Im angenehmen Bereich."
+      }
+    },
+    "complexWords": {
+      "name": "Komplexe Wörter",
+      "metric": "{pct}% des Textes",
+      "note": {
+        "0": "Viele Wörter mit vier oder mehr Silben.",
+        "1": "Angemessene Dichte für einen Fachtext.",
+        "2": "Zugänglicher Wortschatz."
+      }
+    },
+    "passiveVoice": {
+      "name": "Passiv",
+      "metric": "{n, plural, one {# Satz} other {# Sätze}}",
+      "note": {
+        "0": "Das Subjekt der Handlung verschwindet zu oft.",
+        "1": "Gelegentliche Verwendung, akzeptabel.",
+        "2": "Kein Passiv: Die Sätze sagen, wer handelt."
+      }
+    },
+    "jargon": {
+      "name": "Jargon",
+      "metric": "{n, plural, one {# Begriff} other {# Begriffe}}",
+      "note": {
+        "0": "Genug, um ungeübte Leser zu verlieren.",
+        "1": "Einige abstrakte Begriffe, im Text markiert.",
+        "2": "Keine abstrakten Begriffe erkannt."
+      }
+    }
+  },
+  "summary": {
+    "some": "{n, plural, one {# Satz zum Entschlacken} other {# Sätze zum Entschlacken}} · {asl} Wörter pro Satz im Schnitt",
+    "none": "Kurze Sätze, direkter Wortschatz: nichts zu entschlacken."
+  },
+  "scoreTooltip": "Kandel-Moles-Lesbarkeitsindex, abgestimmt für deutsche Texte.",
+  "goToCorrect": "Zur Korrektur",
+  "seeInText": "Im Text ansehen",
+  "queueLabel": "{n, plural, one {# Satz zum Entschlacken} other {# Sätze zum Entschlacken}}",
+  "queueLabelEmpty": "Zu entschlackende Sätze",
+  "queueEmptyNote": "Kein Satz überschreitet die Belastungsschwelle. Der Text liest sich in einem Zug.",
+  "signalsHeading": "Was die Leserschaft Mühe kostet",
+  "signalsSubheading": "Vier Kennzahlen, von der stärksten bis zur schwächsten Gewichtung.",
+  "correctThisSentence": "Diesen Satz korrigieren",
+  "emptyState": {
+    "title": "Der Score erscheint hier",
+    "note": "Mit den vier Kennzahlen dahinter und den Sätzen, die zuerst zu entschlacken sind.",
+    "action": "Beispieltext laden"
+  },
+  "yourText": "Ihr Text",
+  "wordsAndSentences": "{words} Wörter · {sentences} Sätze",
+  "editText": "Text bearbeiten",
+  "placeholder": "Fügen Sie hier den zu testenden Text ein – ein Absatz genügt, 120 Wörter für einen stabilen Score.",
+  "clear": "Löschen",
+  "measuring": "Wird gemessen …",
+  "measureCta": "Lesbarkeit messen",
+  "measuringSkeleton": "Lesbarkeit wird gemessen …",
+  "hint": {
+    "unstable": "{n} weitere Wörter für einen stabilen Score",
+    "stable": "lang genug"
+  },
+  "legendLabel": {
+    "toLighten": "Zu entschlacken",
+    "nothingToReport": "Nichts zu beanstanden"
+  },
+  "demoText": "Die Einführung dieser Transformationsmethodik, die von allen Beteiligten in der Lenkungsausschusssitzung des vergangenen Monats verabschiedet wurde, erfordert eine grundlegende vorherige Optimierung der bestehenden operativen Prozesse in allen betroffenen Abteilungen. Die Ergebnisse werden in Kürze erwartet. Das kollaborative Paradigma gilt in den beteiligten Abteilungen inzwischen als strukturelle Voraussetzung. Wir machen Fortschritte."
+}

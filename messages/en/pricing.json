@@ -1,0 +1,47 @@
+{
+  "metaTitle": "Plans and pricing",
+  "metaDescription": "Every PureText AI tool is free — correction, humanization, verification, readability and word count. Studio (€4.99/mo) lifts the volume caps and unlocks maximum intensity.",
+  "ogTitle": "Plans and pricing · PureText AI",
+  "ogDescription": "Everything is free. Studio lifts the volume caps and unlocks maximum intensity, starting at €3.33 a month.",
+  "heading": "Everything is free.",
+  "headingEmphasis": "Studio lifts the limits.",
+  "subheading": "No tool is locked behind a subscription: correction, verification, readability and the word counter are all free to use. Studio removes the volume caps and unlocks maximum intensity.",
+  "free": {
+    "label": "Free",
+    "forever": "forever",
+    "description": "No card required. Enough to handle an assignment, an article or a letter.",
+    "cta": "Switch back to Free",
+    "ctaActive": "Your current plan"
+  },
+  "studio": {
+    "label": "Studio",
+    "recommended": "Recommended",
+    "perMonth": "per month",
+    "billingNote": "Or €39.99 a year, i.e. €3.33 a month. Cancel anytime.",
+    "cta": "Upgrade to Studio",
+    "ctaActive": "Active plan"
+  },
+  "rows": {
+    "readCount": { "name": "Readability and Counter", "free": "unlimited", "studio": "unlimited" },
+    "correction": {
+      "name": "Correction",
+      "free": "300 words per text, unlimited texts",
+      "studio": "unlimited, no length cap"
+    },
+    "humanize": {
+      "name": "Humanization",
+      "free": "Light and Balanced intensities, 300 words",
+      "studio": "all three intensities, no cap"
+    },
+    "verify": {
+      "name": "Verification",
+      "free": "3 analyses per month, 500 words per analysis",
+      "studio": "unlimited, 5,000 words per analysis"
+    },
+    "sources": {
+      "name": "Sources found",
+      "free": "score and passage count",
+      "studio": "exact links and passages"
+    }
+  }
+}

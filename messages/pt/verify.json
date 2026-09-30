@@ -1,0 +1,117 @@
+{
+  "heading": "Antes de entregar,",
+  "headingEmphasis": "verifique.",
+  "subheading": "O que for assinalado aparece no ponto exato do seu texto. Passa de uma ocorrência à seguinte, como na Correção — e nada muda sem a sua aprovação.",
+  "yourText": "O seu texto",
+  "wordsSentences": "{words} palavras · {sentences} frases",
+  "editText": "Editar o texto",
+  "placeholder": "Cole aqui o texto a verificar — pelo menos 120 palavras para um resultado fiável.",
+  "clear": "Limpar",
+  "overCap": "Análise limitada a 500 palavras por verificação no plano gratuito.",
+  "viewPricing": "Ver planos",
+  "run": "Verificar o texto",
+  "hint": {
+    "moreWords": "{n} palavras em falta para um resultado fiável",
+    "enough": "Comprimento suficiente"
+  },
+  "dontFlag": "Não assinalar isto",
+  "categories": {
+    "rythme": "Ritmo",
+    "connecteur": "Conector",
+    "tournure": "Formulação",
+    "source": "Fonte"
+  },
+  "legend": {
+    "rythme": "Ritmo regular",
+    "connecteur": "Conector",
+    "tournure": "Formulação genérica",
+    "source": "Encontrado noutro local"
+  },
+  "legendLabel": {
+    "hasFindings": "Clique numa passagem",
+    "none": "Legenda"
+  },
+  "findingTitle": {
+    "rythme": "{n} frases de comprimento quase idêntico",
+    "connecteur": "“{term}” — conector estereotipado",
+    "tournure": "“{term}” — formulação estereotipada",
+    "source": "{pct}% do texto encontrado numa fonte publicada"
+  },
+  "findingWhy": {
+    "rythme": "Um comprimento regular em tantas frases é o marcador mais comum de escrita automatizada. Fundir duas e dividir outra costuma bastar para quebrar a regularidade.",
+    "connecteur": "Estes conectores aparecem muito em texto gerado. Na fala como na escrita, as pessoas ligam ideias na maioria das vezes sem conector, ou com um simples “mas”.",
+    "tournure": "Esta formulação não acrescenta informação: anuncia a ideia em vez de a enunciar. Removê-la torna a frase mais curta e incisiva.",
+    "source": "Esta passagem já existe noutro local. Se a ideia vem desta fonte, cite-a — citá-la resolve o problema sem reescrever nada."
+  },
+  "actLabel": {
+    "rythme": "Variar o ritmo",
+    "connecteur": "Reformular a frase",
+    "tournure": "Reformular a frase",
+    "source": "Copiar a referência"
+  },
+  "similarity": {
+    "heading": "Similaridade",
+    "searching": "A pesquisar fontes online…",
+    "foundElsewhere": "do texto encontrado noutro local",
+    "seeInText": "Ver no texto",
+    "copyReference": "Copiar a referência",
+    "noMatch": "Nenhuma passagem significativa encontrada. Correspondências com menos de oito palavras consecutivas não são assinaladas: são expressões correntes, não empréstimo.",
+    "sourceLabel": "{n, plural, one {# passagem encontrada} other {# passagens encontradas}}",
+    "sourceLabelEmpty": "Resultado da comparação"
+  },
+  "simStatus": {
+    "loading": "em curso",
+    "done": "corpus externo",
+    "idle": "não executado"
+  },
+  "simVerdict": {
+    "high": "Similaridade alta",
+    "some": "Algumas sobreposições",
+    "onePassage": "Uma passagem a citar",
+    "none": "Nenhum empréstimo significativo"
+  },
+  "simVerdictSub": {
+    "high": "Uma parte notável do texto já existe noutro local. Cite as suas fontes ou reformule.",
+    "some": "Passagens curtas sobrepõem-se a fontes publicadas — muitas vezes legítimo se citado.",
+    "onePassage": "A parte é pequena, mas a passagem vem de uma fonte identificável: uma citação resolve.",
+    "none": "Nada de comparável encontrado no corpus consultado."
+  },
+  "demoText": "A inteligência artificial desempenha hoje um papel central na produção de conteúdos escritos nas empresas. Importa notar que estas ferramentas estão a transformar profundamente a forma como as equipas editoriais trabalham. Além disso, a velocidade de geração permite publicar mais textos no mesmo período. Os redatores profissionais devem, por isso, repensar o valor que trazem para além da simples produção. Acresce que a questão da fiabilidade da informação gerada continua a ser amplamente debatida. Esta tecnologia desempenha um papel decisivo na forma como as organizações comunicam com os seus públicos. No entanto, nenhuma máquina substitui ainda o discernimento editorial de um profissional experiente na área. No mundo atual, dominar estas ferramentas está a tornar-se uma competência profissional esperada. As empresas que antecipam esta mudança têm uma vantagem competitiva real nos seus mercados.",
+  "emptyState": {
+    "title": "A similaridade aparece aqui",
+    "note": "As ocorrências de escrita, por outro lado, aparecem diretamente no seu texto — clique numa passagem assinalada para as abrir.",
+    "action": "Carregar texto de exemplo"
+  },
+  "quota": {
+    "signedIn": "3 restantes este mês.",
+    "anonymous": "1 análise gratuita sem conta."
+  },
+  "verdict": {
+    "level": {
+      "low": "Baixo",
+      "moderate": "Moderado",
+      "high": "Alto",
+      "veryHigh": "Muito alto"
+    },
+    "title": {
+      "low": "O seu texto comporta-se como escrita humana",
+      "moderate": "Algumas regularidades detetadas, nada de sistemático",
+      "high": "Vários marcadores de escrita automatizada",
+      "veryHigh": "Marcadores de escrita automatizada a acumularem-se"
+    },
+    "analyzing": "A analisar…",
+    "numAnalyzing": "a analisar…",
+    "subNoFindings": "Nada a rever.",
+    "subFindingsCount": "{count, plural, one {# ocorrência a rever} other {# ocorrências a rever}}",
+    "subRhythm": " · ritmo demasiado regular",
+    "subPhrasing": " · {count, plural, one {# formulação} other {# formulações}}",
+    "scoreLabel": "pontuação {score}/100",
+    "scoreTooltip": "Média ponderada dos quatro sinais medidos. Uma pontuação, não uma probabilidade.",
+    "actionCorrect": "Ir para correção",
+    "actionHumanize": "Humanizar este texto"
+  },
+  "fromHuman": {
+    "note": "Texto humanizado há momentos",
+    "back": "Voltar à humanização"
+  }
+}

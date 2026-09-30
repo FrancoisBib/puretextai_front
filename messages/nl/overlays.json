@@ -1,0 +1,27 @@
+{
+  "extension": {
+    "title": "Extensie · geselecteerde tekst",
+    "selectionLabel": "Selectie",
+    "selectionDemo": "Bovendien moet worden opgemerkt dat organisaties zich absoluut moeten aanpassen aan dit nieuwe technologische paradigma.",
+    "correct": "Corrigeren",
+    "humanize": "Humaniseren",
+    "tone": "Toon",
+    "replace": "Vervangen",
+    "copy": "Kopiëren",
+    "copied": "Gekopieerd ✓",
+    "close": "Sluiten",
+    "label": {
+      "correct": "Gecorrigeerd",
+      "humanize": "Gehumaniseerd"
+    },
+    "labelTone": "{tone}-toon",
+    "metaRules": "2 regels toegepast",
+    "metaTone": "{tone}-toon",
+    "metaReformulated": "geherformuleerd",
+    "demoOutput": {
+      "correct": "Bovendien moet worden opgemerkt dat organisaties zich absoluut moeten aanpassen aan dit nieuwe technologische paradigma.",
+      "humanize": "Organisaties hebben eigenlijk geen keuze meer: ze moeten bijblijven.",
+      "tone": "Organisaties moeten zich aanpassen, en snel: deze omslag wacht niet op hen."
+    }
+  }
+}

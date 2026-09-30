@@ -1,0 +1,94 @@
+{
+  "heading": "Leesbaarheidstest",
+  "headingEmphasis": "voor een tekst.",
+  "subheading": "Wij meten de inspanning die een lezer moet leveren: zinslengte, complexe woorden, passieve zinnen, jargon. Er wordt niets herschreven — de kostbare passages worden precies getoond waar ze staan.",
+  "categories": {
+    "longue": "Lange zin",
+    "passive": "Passieve zin",
+    "jargon": "Jargon"
+  },
+  "findingWhy": {
+    "longue": "{n} woorden in één adem. Voorbij de 25 verliest de lezer het onderwerp voordat hij bij het werkwoord komt — knip bij het eerste verbindingswoord.",
+    "jargon": "“{terms}”: abstracte termen die ontcijferd moeten worden. Een concreet woord zegt hetzelfde sneller.",
+    "passive": "De zin verbergt wie er handelt. In de actieve vorm is hij korter en weet de lezer wie wat doet."
+  },
+  "levels": {
+    "veryEasy": { "name": "Zeer gemakkelijk te lezen", "grade": "niveau middelbare school" },
+    "comfortable": { "name": "Prettig leesbaar", "grade": "niveau bovenbouw" },
+    "demanding": { "name": "Veel eisend om te lezen", "grade": "niveau bachelor" },
+    "difficult": { "name": "Moeilijk leesbaar", "grade": "niveau master en hoger" }
+  },
+  "signals": {
+    "sentenceLength": {
+      "name": "Zinslengte",
+      "metric": "{asl} woorden gem.",
+      "note": {
+        "0": "Ruim boven prettig leesbaar (15 tot 20 woorden).",
+        "1": "Wat lang: de lezer kan volgen, maar zonder speling.",
+        "2": "In de comfortabele zone."
+      }
+    },
+    "complexWords": {
+      "name": "Complexe woorden",
+      "metric": "{pct}% van de tekst",
+      "note": {
+        "0": "Veel woorden met vier of meer lettergrepen.",
+        "1": "Redelijke dichtheid voor een specialistische tekst.",
+        "2": "Toegankelijke woordenschat."
+      }
+    },
+    "passiveVoice": {
+      "name": "Passieve zinnen",
+      "metric": "{n, plural, one {# zin} other {# zinnen}}",
+      "note": {
+        "0": "Het onderwerp van de handeling verdwijnt te vaak.",
+        "1": "Incidenteel gebruik, aanvaardbaar.",
+        "2": "Geen: de zinnen zeggen wie er handelt."
+      }
+    },
+    "jargon": {
+      "name": "Jargon",
+      "metric": "{n, plural, one {# term} other {# termen}}",
+      "note": {
+        "0": "Genoeg om een niet-ingewijde lezer kwijt te raken.",
+        "1": "Enkele abstracte termen, in de tekst gemarkeerd.",
+        "2": "Geen abstracte termen gedetecteerd."
+      }
+    }
+  },
+  "summary": {
+    "some": "{n, plural, one {# zin lichter te maken} other {# zinnen lichter te maken}} · {asl} woorden per zin gemiddeld",
+    "none": "Korte zinnen, directe woordenschat: niets lichter te maken."
+  },
+  "scoreTooltip": "Kandel-Moles-leesbaarheidsindex, afgestemd op Nederlandse teksten.",
+  "goToCorrect": "Naar Correctie",
+  "seeInText": "Bekijk in tekst",
+  "queueLabel": "{n, plural, one {# zin lichter te maken} other {# zinnen lichter te maken}}",
+  "queueLabelEmpty": "Zinnen lichter te maken",
+  "queueEmptyNote": "Geen enkele zin overschrijdt de belastingsdrempel. De tekst leest in één adem.",
+  "signalsHeading": "Wat de lezer kost",
+  "signalsSubheading": "Vier metingen, van meest naar minst bestraffend.",
+  "correctThisSentence": "Corrigeer deze zin",
+  "emptyState": {
+    "title": "De score verschijnt hier",
+    "note": "Samen met de vier metingen erachter, en de zinnen die u het eerst lichter moet maken.",
+    "action": "Laad een voorbeeldtekst"
+  },
+  "yourText": "Uw tekst",
+  "wordsAndSentences": "{words} woorden · {sentences} zinnen",
+  "editText": "Tekst bewerken",
+  "placeholder": "Plak hier de te testen tekst — één alinea is genoeg, 120 woorden voor een stabiele score.",
+  "clear": "Wissen",
+  "measuring": "Meten…",
+  "measureCta": "Meet leesbaarheid",
+  "measuringSkeleton": "Leesbaarheid meten…",
+  "hint": {
+    "unstable": "{n} woorden meer voor een stabiele score",
+    "stable": "lang genoeg"
+  },
+  "legendLabel": {
+    "toLighten": "Lichter te maken",
+    "nothingToReport": "Niets te melden"
+  },
+  "demoText": "De uitrol van deze transformatiemethodiek, die tijdens de stuurgroepvergadering van vorige maand door alle belanghebbenden is goedgekeurd, vereist een essentiële voorafgaande optimalisatie van de bestaande operationele processen in alle betrokken afdelingen. De resultaten worden binnenkort verwacht. Het samenwerkingsparadigma wordt door de betrokken afdelingen inmiddels als een structurele randvoorwaarde beschouwd. We gaan vooruit."
+}

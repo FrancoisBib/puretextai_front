@@ -1,0 +1,44 @@
+{
+  "heading": "Clean writing,",
+  "headingEmphasis": "without a single mistake.",
+  "subheading": "Click an underlined word in your text: the rule appears right at the problem. Apply it, or dismiss it.",
+  "overCap": "Correction limited to 300 words per text on the free plan.",
+  "viewPricing": "See plans",
+  "runAnalysis": "Run analysis",
+  "analyzing": "Analyzing…",
+  "ignoreAll": "Dismiss all",
+  "applyAllCount": "Fix all ({count})",
+  "yourText": "Your text",
+  "status": {
+    "notRun": "Analysis not run",
+    "noSuggestion": "No suggestions",
+    "suggestionCount": "{count, plural, one {# suggestion} other {# suggestions}}"
+  },
+  "clear": "Clear",
+  "copy": "Copy",
+  "copied": "Copied ✓",
+  "categories": {
+    "Tout": "All",
+    "Orthographe": "Spelling",
+    "Grammaire": "Grammar",
+    "Style": "Style",
+    "Vocabulaire": "Vocabulary",
+    "Ponctuation": "Punctuation"
+  },
+  "apply": "Apply",
+  "ignore": "Dismiss",
+  "review": "Review",
+  "progress": "{done} of {total} handled",
+  "analyzingSkeleton": "Analyzing your text…",
+  "seeInText": "See in text",
+  "testReadability": "Test readability →",
+  "empty": {
+    "errorTitle": "Analysis failed",
+    "idleTitle": "Analysis not run",
+    "idleNote": "Run the analysis to find mistakes in your text.",
+    "cleanTitle": "Your text is clean",
+    "cleanNote": "Your text is correct. Now let's see if it's clear.",
+    "noneTitle": "Nothing to report",
+    "noneNote": "No mistakes found in this text for the active filter."
+  }
+}

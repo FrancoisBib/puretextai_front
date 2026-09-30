@@ -1,0 +1,35 @@
+{
+  "close": "Chiudi",
+  "undo": "Annulla",
+  "findingPrev": "Rilievo precedente",
+  "findingNext": "Rilievo successivo",
+  "modulesHeading": "Moduli",
+  "loading": "Un momento…",
+  "wordsUsed": "{used, number} / {cap, number} parole",
+  "siteDescription": "PureText AI corregge, umanizza e verifica i Suoi testi: correzione grammaticale, umanizzazione IA, rilevamento IA/plagio, leggibilità e conteggio parole, tutto in un unico studio.",
+  "siteDescriptionShort": "Correzione, umanizzazione, verifica, leggibilità e conteggio parole per i Suoi testi.",
+  "errors": {
+    "unauthorized": "Email o password errate.",
+    "conflict": "Esiste già un account con questo indirizzo email.",
+    "validation_error": "Verifichi l'indirizzo email e la password.",
+    "quota_exceeded": "Limite raggiunto — passi a Studio o riprovi più tardi.",
+    "text_too_long": "Il testo supera il limite previsto per questo piano.",
+    "plan_required": "Questa opzione è riservata al piano Studio.",
+    "provider_unavailable": "Servizio temporaneamente non disponibile. Riprovi tra un momento.",
+    "rate_limited": "Troppe richieste — attenda un momento.",
+    "internal_error": "Si è verificato un errore interno. Riprovi.",
+    "invalid_code": "Codice errato o scaduto. Lo verifichi o ne richieda uno nuovo.",
+    "generic": "Qualcosa è andato storto. Riprovi.",
+    "disposable_email": "Gli indirizzi email temporanei non sono accettati. Utilizzi il Suo indirizzo abituale."
+  },
+  "toasts": {
+    "fixApplied": "«{value}» applicato",
+    "suggestionIgnored": "Suggerimento ignorato",
+    "ruleDisabled": "Regola «{rule}» disattivata",
+    "correctionsApplied": "{n, plural, one {# correzione applicata} other {# correzioni applicate}}",
+    "allIgnored": "Tutti i suggerimenti ignorati",
+    "translatedAndHumanized": "Tradotto e poi umanizzato",
+    "referenceCopied": "Riferimento copiato: {title}",
+    "codeResent": "Nuovo codice inviato."
+  }
+}

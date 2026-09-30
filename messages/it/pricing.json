@@ -1,0 +1,47 @@
+{
+  "metaTitle": "Piani e prezzi",
+  "metaDescription": "Ogni strumento PureText AI è gratuito — correzione, umanizzazione, verifica, leggibilità e conteggio parole. Studio (€4.99/mese) rimuove i limiti di volume e sblocca l'intensità massima.",
+  "ogTitle": "Piani e prezzi · PureText AI",
+  "ogDescription": "Tutto è gratuito. Studio rimuove i limiti di volume e sblocca l'intensità massima, a partire da €3.33 al mese.",
+  "heading": "Tutto è gratuito.",
+  "headingEmphasis": "Studio rimuove i limiti.",
+  "subheading": "Nessuno strumento è bloccato dietro abbonamento: correzione, verifica, leggibilità e contatore di parole sono tutti gratuiti. Studio rimuove i limiti di volume e sblocca l'intensità massima.",
+  "free": {
+    "label": "Gratuito",
+    "forever": "per sempre",
+    "description": "Nessuna carta richiesta. Sufficiente per un compito, un articolo o una lettera.",
+    "cta": "Torna a Gratuito",
+    "ctaActive": "Il Suo piano attuale"
+  },
+  "studio": {
+    "label": "Studio",
+    "recommended": "Consigliato",
+    "perMonth": "al mese",
+    "billingNote": "Oppure €39.99 all'anno, cioè €3.33 al mese. Disdica quando vuole.",
+    "cta": "Passi a Studio",
+    "ctaActive": "Piano attivo"
+  },
+  "rows": {
+    "readCount": { "name": "Leggibilità e Contatore", "free": "illimitati", "studio": "illimitati" },
+    "correction": {
+      "name": "Correzione",
+      "free": "300 parole per testo, testi illimitati",
+      "studio": "illimitata, senza limite di lunghezza"
+    },
+    "humanize": {
+      "name": "Umanizzazione",
+      "free": "Intensità Leggera ed Equilibrata, 300 parole",
+      "studio": "tutte e tre le intensità, senza limite"
+    },
+    "verify": {
+      "name": "Verifica",
+      "free": "3 analisi al mese, 500 parole per analisi",
+      "studio": "illimitata, 5.000 parole per analisi"
+    },
+    "sources": {
+      "name": "Fonti trovate",
+      "free": "punteggio e numero di passaggi",
+      "studio": "link e passaggi esatti"
+    }
+  }
+}

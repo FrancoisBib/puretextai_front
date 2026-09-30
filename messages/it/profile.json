@@ -1,0 +1,23 @@
+{
+  "title": "Profilo",
+  "loading": "Caricamento del profilo…",
+  "retry": "Riprova",
+  "subscription": {
+    "label": "Abbonamento",
+    "manage": "Gestisci l'abbonamento"
+  },
+  "quota": {
+    "label": "Quota mensile",
+    "runsLeft": "{n, plural, one {# rimanente} other {# rimanenti}} questo mese",
+    "unlimited": "Illimitata"
+  },
+  "preferences": {
+    "label": "Preferenze",
+    "defaultTone": "Tono predefinito",
+    "defaultIntensity": "Intensità predefinita",
+    "language": "Lingua",
+    "extension": "Estensione del browser",
+    "extensionActive": "Attiva",
+    "extensionInactive": "Non attiva"
+  }
+}

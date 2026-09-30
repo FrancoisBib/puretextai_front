@@ -1,0 +1,23 @@
+{
+  "title": "Profil",
+  "loading": "Chargement du profil…",
+  "retry": "Réessayer",
+  "subscription": {
+    "label": "Abonnement",
+    "manage": "Gérer l'abonnement"
+  },
+  "quota": {
+    "label": "Quota du mois",
+    "runsLeft": "{n, plural, one {# restante} other {# restantes}} ce mois-ci",
+    "unlimited": "Illimité"
+  },
+  "preferences": {
+    "label": "Préférences",
+    "defaultTone": "Ton par défaut",
+    "defaultIntensity": "Intensité par défaut",
+    "language": "Langue",
+    "extension": "Extension navigateur",
+    "extensionActive": "Activée",
+    "extensionInactive": "Désactivée"
+  }
+}

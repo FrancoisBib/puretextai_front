@@ -1,0 +1,44 @@
+{
+  "heading": "Schone teksten,",
+  "headingEmphasis": "zonder een enkele fout.",
+  "subheading": "Klik op een onderstreept woord in uw tekst: de regel verschijnt precies bij het probleem. Pas deze toe of negeer hem.",
+  "overCap": "Correctie beperkt tot 300 woorden per tekst in het gratis abonnement.",
+  "viewPricing": "Bekijk abonnementen",
+  "runAnalysis": "Analyse uitvoeren",
+  "analyzing": "Analyseren…",
+  "ignoreAll": "Alles negeren",
+  "applyAllCount": "Alles corrigeren ({count})",
+  "yourText": "Uw tekst",
+  "status": {
+    "notRun": "Analyse niet uitgevoerd",
+    "noSuggestion": "Geen suggesties",
+    "suggestionCount": "{count, plural, one {# suggestie} other {# suggesties}}"
+  },
+  "clear": "Wissen",
+  "copy": "Kopiëren",
+  "copied": "Gekopieerd ✓",
+  "categories": {
+    "Tout": "Alles",
+    "Orthographe": "Spelling",
+    "Grammaire": "Grammatica",
+    "Style": "Stijl",
+    "Vocabulaire": "Woordenschat",
+    "Ponctuation": "Interpunctie"
+  },
+  "apply": "Toepassen",
+  "ignore": "Negeren",
+  "review": "Bekijken",
+  "progress": "{done} van {total} afgehandeld",
+  "analyzingSkeleton": "Uw tekst wordt geanalyseerd…",
+  "seeInText": "Bekijk in tekst",
+  "testReadability": "Test leesbaarheid →",
+  "empty": {
+    "errorTitle": "Analyse mislukt",
+    "idleTitle": "Analyse niet uitgevoerd",
+    "idleNote": "Voer de analyse uit om fouten in uw tekst te vinden.",
+    "cleanTitle": "Uw tekst is foutloos",
+    "cleanNote": "Uw tekst is correct. Laten we nu kijken of hij helder is.",
+    "noneTitle": "Niets te melden",
+    "noneNote": "Geen fouten gevonden in deze tekst voor het actieve filter."
+  }
+}

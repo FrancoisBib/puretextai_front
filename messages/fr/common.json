@@ -1,0 +1,35 @@
+{
+  "close": "Fermer",
+  "undo": "Annuler",
+  "findingPrev": "Constat précédent",
+  "findingNext": "Constat suivant",
+  "modulesHeading": "Modules",
+  "loading": "Un instant…",
+  "wordsUsed": "{used, number} / {cap, number} mots",
+  "siteDescription": "PureText AI corrige, humanise et vérifie vos textes : correction grammaticale, humanisation IA, détection IA/plagiat, lisibilité et compteur de mots, dans un seul studio.",
+  "siteDescriptionShort": "Correction, humanisation, vérification, lisibilité et compteur de mots pour vos textes.",
+  "errors": {
+    "unauthorized": "Email ou mot de passe incorrect.",
+    "conflict": "Un compte existe déjà avec cette adresse email.",
+    "validation_error": "Vérifiez l'adresse email et le mot de passe.",
+    "quota_exceeded": "Limite atteinte — passez à Studio ou réessayez plus tard.",
+    "text_too_long": "Le texte dépasse la limite autorisée pour ce plan.",
+    "plan_required": "Cette option est réservée au plan Studio.",
+    "provider_unavailable": "Service momentanément indisponible. Réessayez dans un instant.",
+    "rate_limited": "Trop de requêtes — patientez un instant.",
+    "internal_error": "Une erreur interne est survenue. Réessayez.",
+    "invalid_code": "Code incorrect ou expiré. Vérifiez-le ou demandez-en un nouveau.",
+    "generic": "Une erreur est survenue. Réessayez.",
+    "disposable_email": "Les adresses email temporaires ne sont pas acceptées. Utilisez votre adresse habituelle."
+  },
+  "toasts": {
+    "fixApplied": "« {value} » appliqué",
+    "suggestionIgnored": "Suggestion ignorée",
+    "ruleDisabled": "Règle « {rule} » désactivée",
+    "correctionsApplied": "{n, plural, one {# correction appliquée} other {# corrections appliquées}}",
+    "allIgnored": "Toutes les suggestions ignorées",
+    "translatedAndHumanized": "Traduit puis humanisé",
+    "referenceCopied": "Référence copiée : {title}",
+    "codeResent": "Nouveau code envoyé."
+  }
+}

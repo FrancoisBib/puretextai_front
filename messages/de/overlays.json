@@ -1,0 +1,27 @@
+{
+  "extension": {
+    "title": "Erweiterung · ausgewählter Text",
+    "selectionLabel": "Auswahl",
+    "selectionDemo": "Darüber hinaus ist festzuhalten, dass sich Organisationen zwingend an dieses neue technologische Paradigma anpassen müssen.",
+    "correct": "Korrigieren",
+    "humanize": "Humanisieren",
+    "tone": "Ton",
+    "replace": "Ersetzen",
+    "copy": "Kopieren",
+    "copied": "Kopiert ✓",
+    "close": "Schließen",
+    "label": {
+      "correct": "Korrigiert",
+      "humanize": "Humanisiert"
+    },
+    "labelTone": "Ton {tone}",
+    "metaRules": "2 Regeln angewendet",
+    "metaTone": "Ton {tone}",
+    "metaReformulated": "umformuliert",
+    "demoOutput": {
+      "correct": "Darüber hinaus ist festzuhalten, dass sich Organisationen zwingend an dieses neue technologische Paradigma anpassen müssen.",
+      "humanize": "Organisationen haben eigentlich keine Wahl mehr: Sie müssen Schritt halten.",
+      "tone": "Organisationen müssen sich anpassen – und zwar schnell: Dieser Wandel wartet nicht auf sie."
+    }
+  }
+}

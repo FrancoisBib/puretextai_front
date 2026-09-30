@@ -1,0 +1,47 @@
+{
+  "metaTitle": "Planes y precios",
+  "metaDescription": "Todas las herramientas de PureText AI son gratuitas: corrección, humanización, verificación, legibilidad y recuento de palabras. Studio (€4.99/mes) elimina los límites de volumen y desbloquea la intensidad máxima.",
+  "ogTitle": "Planes y precios · PureText AI",
+  "ogDescription": "Todo es gratis. Studio elimina los límites de volumen y desbloquea la intensidad máxima, desde €3.33 al mes.",
+  "heading": "Todo es gratis.",
+  "headingEmphasis": "Studio elimina los límites.",
+  "subheading": "Ninguna herramienta está bloqueada tras una suscripción: la corrección, la verificación, la legibilidad y el contador de palabras son gratuitos. Studio elimina los límites de volumen y desbloquea la intensidad máxima.",
+  "free": {
+    "label": "Gratis",
+    "forever": "para siempre",
+    "description": "Sin tarjeta. Suficiente para un trabajo, un artículo o una carta.",
+    "cta": "Volver al plan Gratis",
+    "ctaActive": "Tu plan actual"
+  },
+  "studio": {
+    "label": "Studio",
+    "recommended": "Recomendado",
+    "perMonth": "al mes",
+    "billingNote": "O €39.99 al año, es decir, €3.33 al mes. Cancela cuando quieras.",
+    "cta": "Pasar a Studio",
+    "ctaActive": "Plan activo"
+  },
+  "rows": {
+    "readCount": { "name": "Legibilidad y Contador", "free": "ilimitado", "studio": "ilimitado" },
+    "correction": {
+      "name": "Corrección",
+      "free": "300 palabras por texto, textos ilimitados",
+      "studio": "ilimitado, sin límite de longitud"
+    },
+    "humanize": {
+      "name": "Humanización",
+      "free": "Intensidades Suave y Equilibrada, 300 palabras",
+      "studio": "las tres intensidades, sin límite"
+    },
+    "verify": {
+      "name": "Verificación",
+      "free": "3 análisis al mes, 500 palabras por análisis",
+      "studio": "ilimitado, 5,000 palabras por análisis"
+    },
+    "sources": {
+      "name": "Fuentes encontradas",
+      "free": "puntuación y número de pasajes",
+      "studio": "enlaces y pasajes exactos"
+    }
+  }
+}

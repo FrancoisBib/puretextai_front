@@ -1,0 +1,47 @@
+{
+  "metaTitle": "Formules et tarifs",
+  "metaDescription": "Tous les outils PureText AI sont gratuits — correction, humanisation, vérification, lisibilité et compteur de mots. Studio (4,99 €/mois) lève les plafonds de volume et débloque l'intensité maximale.",
+  "ogTitle": "Formules et tarifs · PureText AI",
+  "ogDescription": "Tout est gratuit. Studio lève les plafonds de volume et débloque l'intensité maximale, à partir de 3,33 € par mois.",
+  "heading": "Tout est gratuit.",
+  "headingEmphasis": "Studio lève les limites.",
+  "subheading": "Aucun outil n'est réservé aux abonnés : la correction, la vérification, la lisibilité et le compteur sont accessibles sans payer. Studio enlève les plafonds de volume et débloque l'intensité maximale.",
+  "free": {
+    "label": "Gratuit",
+    "forever": "pour toujours",
+    "description": "Sans carte bancaire. De quoi traiter un devoir, un article ou une lettre.",
+    "cta": "Revenir au gratuit",
+    "ctaActive": "Votre formule actuelle"
+  },
+  "studio": {
+    "label": "Studio",
+    "recommended": "Recommandé",
+    "perMonth": "par mois",
+    "billingNote": "Ou 39,99 € par an, soit 3,33 € par mois. Annulable à tout moment.",
+    "cta": "Passer à Studio",
+    "ctaActive": "Formule active"
+  },
+  "rows": {
+    "readCount": { "name": "Lisibilité et Compteur", "free": "illimités", "studio": "illimités" },
+    "correction": {
+      "name": "Correction",
+      "free": "300 mots par texte, sans limite de textes",
+      "studio": "illimitée, sans plafond de longueur"
+    },
+    "humanize": {
+      "name": "Humanisation",
+      "free": "intensités Légère et Équilibrée, 300 mots",
+      "studio": "les trois intensités, sans plafond"
+    },
+    "verify": {
+      "name": "Vérification",
+      "free": "3 analyses par mois, 500 mots par analyse",
+      "studio": "illimitée, 5 000 mots par analyse"
+    },
+    "sources": {
+      "name": "Sources retrouvées",
+      "free": "score et nombre de passages",
+      "studio": "liens et passages exacts"
+    }
+  }
+}

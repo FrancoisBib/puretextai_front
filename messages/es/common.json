@@ -1,0 +1,35 @@
+{
+  "close": "Cerrar",
+  "undo": "Deshacer",
+  "findingPrev": "Hallazgo anterior",
+  "findingNext": "Hallazgo siguiente",
+  "modulesHeading": "Módulos",
+  "loading": "Un momento…",
+  "wordsUsed": "{used, number} / {cap, number} palabras",
+  "siteDescription": "PureText AI corrige, humaniza y revisa tus textos: corrección gramatical, humanización de IA, detección de IA/plagio, legibilidad y recuento de palabras, todo en un mismo estudio.",
+  "siteDescriptionShort": "Corrección, humanización, verificación, legibilidad y recuento de palabras para tus textos.",
+  "errors": {
+    "unauthorized": "Correo electrónico o contraseña incorrectos.",
+    "conflict": "Ya existe una cuenta con esta dirección de correo.",
+    "validation_error": "Revisa la dirección de correo y la contraseña.",
+    "quota_exceeded": "Límite alcanzado — pasa a Studio o inténtalo de nuevo más tarde.",
+    "text_too_long": "El texto supera el límite permitido en este plan.",
+    "plan_required": "Esta opción está reservada al plan Studio.",
+    "provider_unavailable": "Servicio no disponible temporalmente. Inténtalo de nuevo en un momento.",
+    "rate_limited": "Demasiadas solicitudes — espera un momento.",
+    "internal_error": "Se ha producido un error interno. Inténtalo de nuevo.",
+    "invalid_code": "Código incorrecto o caducado. Revísalo o solicita uno nuevo.",
+    "generic": "Algo ha salido mal. Inténtalo de nuevo.",
+    "disposable_email": "No se aceptan direcciones de correo temporales. Usa tu dirección habitual."
+  },
+  "toasts": {
+    "fixApplied": "«{value}» aplicado",
+    "suggestionIgnored": "Sugerencia descartada",
+    "ruleDisabled": "Regla «{rule}» desactivada",
+    "correctionsApplied": "{n, plural, one {# corrección aplicada} other {# correcciones aplicadas}}",
+    "allIgnored": "Todas las sugerencias descartadas",
+    "translatedAndHumanized": "Traducido y luego humanizado",
+    "referenceCopied": "Referencia copiada: {title}",
+    "codeResent": "Nuevo código enviado."
+  }
+}

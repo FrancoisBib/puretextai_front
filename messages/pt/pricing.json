@@ -1,0 +1,47 @@
+{
+  "metaTitle": "Planos e preços",
+  "metaDescription": "Todas as ferramentas PureText AI são gratuitas — correção, humanização, verificação, legibilidade e contagem de palavras. O Studio (€4.99/mês) remove os limites de volume e desbloqueia a intensidade máxima.",
+  "ogTitle": "Planos e preços · PureText AI",
+  "ogDescription": "Tudo é gratuito. O Studio remove os limites de volume e desbloqueia a intensidade máxima, a partir de €3.33 por mês.",
+  "heading": "Tudo é gratuito.",
+  "headingEmphasis": "O Studio remove os limites.",
+  "subheading": "Nenhuma ferramenta está bloqueada por subscrição: correção, verificação, legibilidade e contador de palavras são todos gratuitos. O Studio remove os limites de volume e desbloqueia a intensidade máxima.",
+  "free": {
+    "label": "Gratuito",
+    "forever": "para sempre",
+    "description": "Sem cartão. Suficiente para um trabalho, um artigo ou uma carta.",
+    "cta": "Voltar ao Gratuito",
+    "ctaActive": "O seu plano atual"
+  },
+  "studio": {
+    "label": "Studio",
+    "recommended": "Recomendado",
+    "perMonth": "por mês",
+    "billingNote": "Ou €39.99 por ano, ou seja, €3.33 por mês. Cancele quando quiser.",
+    "cta": "Passar ao Studio",
+    "ctaActive": "Plano ativo"
+  },
+  "rows": {
+    "readCount": { "name": "Legibilidade e Contador", "free": "ilimitado", "studio": "ilimitado" },
+    "correction": {
+      "name": "Correção",
+      "free": "300 palavras por texto, textos ilimitados",
+      "studio": "ilimitado, sem limite de tamanho"
+    },
+    "humanize": {
+      "name": "Humanização",
+      "free": "Intensidades Leve e Equilibrada, 300 palavras",
+      "studio": "as três intensidades, sem limite"
+    },
+    "verify": {
+      "name": "Verificação",
+      "free": "3 análises por mês, 500 palavras por análise",
+      "studio": "ilimitado, 5 000 palavras por análise"
+    },
+    "sources": {
+      "name": "Fontes encontradas",
+      "free": "pontuação e número de passagens",
+      "studio": "ligações e passagens exatas"
+    }
+  }
+}

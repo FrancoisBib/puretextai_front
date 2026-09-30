@@ -1,0 +1,117 @@
+{
+  "heading": "Voordat u inlevert,",
+  "headingEmphasis": "controleer het.",
+  "subheading": "Wat wordt gemarkeerd, wordt precies op die plek in uw tekst getoond. U gaat van de ene bevinding naar de andere, net als bij Correctie — en er verandert niets zonder uw akkoord.",
+  "yourText": "Uw tekst",
+  "wordsSentences": "{words} woorden · {sentences} zinnen",
+  "editText": "Bewerk de tekst",
+  "placeholder": "Plak hier de te controleren tekst — minimaal 120 woorden voor een betrouwbaar resultaat.",
+  "clear": "Wissen",
+  "overCap": "Analyse beperkt tot 500 woorden per scan in het gratis abonnement.",
+  "viewPricing": "Bekijk abonnementen",
+  "run": "Controleer de tekst",
+  "hint": {
+    "moreWords": "{n} woorden meer voor een betrouwbaar resultaat",
+    "enough": "Lang genoeg"
+  },
+  "dontFlag": "Dit niet markeren",
+  "categories": {
+    "rythme": "Ritme",
+    "connecteur": "Verbindingswoord",
+    "tournure": "Formulering",
+    "source": "Bron"
+  },
+  "legend": {
+    "rythme": "Regelmatig ritme",
+    "connecteur": "Verbindingswoord",
+    "tournure": "Generieke formulering",
+    "source": "Elders gevonden"
+  },
+  "legendLabel": {
+    "hasFindings": "Klik op een passage",
+    "none": "Legenda"
+  },
+  "findingTitle": {
+    "rythme": "{n} zinnen van vrijwel identieke lengte",
+    "connecteur": "“{term}” — een sjabloonachtig verbindingswoord",
+    "tournure": "“{term}” — een standaardformulering",
+    "source": "{pct}% van de tekst gevonden in een gepubliceerde bron"
+  },
+  "findingWhy": {
+    "rythme": "Regelmatige lengte over zoveel zinnen is het meest voorkomende kenmerk van automatisch schrijven. Twee zinnen samenvoegen en een andere splitsen is vaak genoeg om de regelmaat te doorbreken.",
+    "connecteur": "Deze verbindingswoorden komen veel voor in gegenereerde tekst. In spreken én schrijven verbinden mensen ideeën meestal zonder verbindingswoord, of met een simpel “maar”.",
+    "tournure": "Deze formulering voegt geen informatie toe: hij kondigt het idee aan in plaats van het te stellen. Weglaten maakt de zin korter en scherper.",
+    "source": "Deze passage bestaat elders al. Als het idee uit deze bron komt, citeer hem — citeren lost het probleem op zonder iets te herschrijven."
+  },
+  "actLabel": {
+    "rythme": "Varieer het ritme",
+    "connecteur": "Herformuleer de zin",
+    "tournure": "Herformuleer de zin",
+    "source": "Kopieer de referentie"
+  },
+  "similarity": {
+    "heading": "Overeenkomst",
+    "searching": "Online naar bronnen zoeken…",
+    "foundElsewhere": "van de tekst elders gevonden",
+    "seeInText": "Bekijk in tekst",
+    "copyReference": "Kopieer de referentie",
+    "noMatch": "Geen significante passage gevonden. Overeenkomsten korter dan acht opeenvolgende woorden worden niet gemarkeerd: dat zijn gangbare wendingen, geen ontlening.",
+    "sourceLabel": "{n, plural, one {# passage gevonden} other {# passages gevonden}}",
+    "sourceLabelEmpty": "Vergelijkingsresultaat"
+  },
+  "simStatus": {
+    "loading": "bezig",
+    "done": "extern corpus",
+    "idle": "niet uitgevoerd"
+  },
+  "simVerdict": {
+    "high": "Hoge overeenkomst",
+    "some": "Enkele overlappingen",
+    "onePassage": "Eén te citeren passage",
+    "none": "Geen significante ontlening"
+  },
+  "simVerdictSub": {
+    "high": "Een aanzienlijk deel van de tekst bestaat elders al. Citeer uw bronnen of herformuleer.",
+    "some": "Korte passages overlappen met gepubliceerde bronnen — vaak legitiem indien geciteerd.",
+    "onePassage": "Het aandeel is klein, maar de passage komt uit een identificeerbare bron: een citaat lost het op.",
+    "none": "Niets vergelijkbaars gevonden in het geraadpleegde corpus."
+  },
+  "demoText": "Kunstmatige intelligentie speelt inmiddels een centrale rol bij de productie van geschreven content binnen bedrijven. Opgemerkt moet worden dat deze tools de manier waarop redactieteams werken ingrijpend veranderen. Bovendien maakt de snelheid van generatie het mogelijk om in dezelfde periode meer teksten te publiceren. Professionele schrijvers moeten daarom de waarde heroverwegen die zij bieden naast pure productie. Daarnaast blijft de vraag naar de betrouwbaarheid van gegenereerde informatie breed bediscussieerd. Deze technologie speelt een beslissende rol in hoe organisaties met hun publiek communiceren. Toch vervangt geen enkele machine het redactionele oordeel van een ervaren professional in het vak. In de wereld van vandaag wordt het beheersen van deze tools een verwachte professionele vaardigheid. Bedrijven die op deze omslag anticiperen, hebben een echte concurrentievoorsprong in hun markten.",
+  "emptyState": {
+    "title": "Overeenkomst verschijnt hier",
+    "note": "Schrijfbevindingen verschijnen daarentegen direct in uw tekst — klik op een gemarkeerde passage om ze te openen.",
+    "action": "Laad een voorbeeldtekst"
+  },
+  "quota": {
+    "signedIn": "Nog 3 over deze maand.",
+    "anonymous": "1 gratis analyse zonder account."
+  },
+  "verdict": {
+    "level": {
+      "low": "Laag",
+      "moderate": "Matig",
+      "high": "Hoog",
+      "veryHigh": "Zeer hoog"
+    },
+    "title": {
+      "low": "Uw tekst gedraagt zich als menselijk schrijven",
+      "moderate": "Enkele regelmatigheden gespot, niets systematisch",
+      "high": "Verschillende markers van automatisch schrijven",
+      "veryHigh": "Markers van automatisch schrijven stapelen zich op"
+    },
+    "analyzing": "Analyseren…",
+    "numAnalyzing": "analyseren…",
+    "subNoFindings": "Niets te bekijken.",
+    "subFindingsCount": "{count, plural, one {# bevinding} other {# bevindingen}} te bekijken",
+    "subRhythm": " · ritme te regelmatig",
+    "subPhrasing": " · {count, plural, one {# formulering} other {# formuleringen}}",
+    "scoreLabel": "score {score}/100",
+    "scoreTooltip": "Gewogen gemiddelde van de vier gemeten signalen. Een score, geen kans.",
+    "actionCorrect": "Naar correctie",
+    "actionHumanize": "Humaniseer deze tekst"
+  },
+  "fromHuman": {
+    "note": "Tekst zojuist gehumaniseerd",
+    "back": "Terug naar humanisering"
+  }
+}

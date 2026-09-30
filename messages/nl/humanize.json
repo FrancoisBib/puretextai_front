@@ -1,0 +1,131 @@
+{
+  "heading": "Teksten",
+  "headingEmphasis": "die klinken als u.",
+  "subheading": "Elke herschreven zin blijft onder uw controle: klik erop om het origineel te lezen, te behouden of te herstellen.",
+  "overCap": "Humanisering beperkt tot 300 woorden per keer in het gratis abonnement.",
+  "viewPricing": "Bekijk abonnementen",
+  "cta": {
+    "busy": "Herschrijven…",
+    "rerun": "Humanisering opnieuw uitvoeren",
+    "run": "Tekst humaniseren"
+  },
+  "tuneHint": {
+    "recalculated": "Opnieuw berekend bij elke wijziging",
+    "onLaunch": "Toegepast bij uitvoering"
+  },
+  "tuneHintShort": {
+    "recalculated": "opnieuw berekend bij elke wijziging",
+    "onLaunch": "toegepast bij uitvoering"
+  },
+  "intensity": {
+    "light": "Licht",
+    "balanced": "Evenwichtig",
+    "maximum": "Maximaal"
+  },
+  "intensityNote": {
+    "light": "Werkt de meest mechanische formuleringen bij, behoudt uw zinsbouw.",
+    "balanced": "Herschrijft AI-achtige wendingen en varieert het ritme. Het beste compromis.",
+    "maximum": "Breekt academische zinsbouw grondig open. Controleer het resultaat voor publicatie."
+  },
+  "toneGroups": {
+    "Généraux": "Algemeen",
+    "Freelance": "Freelance",
+    "Étudiant": "Student"
+  },
+  "tones": {
+    "Professionnel": {
+      "label": "Professioneel",
+      "desc": "Neutraal en helder, zonder jargon."
+    },
+    "Amical": {
+      "label": "Vriendelijk",
+      "desc": "Warm, korte zinnen."
+    },
+    "Synthétique": {
+      "label": "Bondig",
+      "desc": "Direct ter zake, schrapt de vulling."
+    },
+    "Pitch Upwork/Malt": {
+      "label": "Upwork/freelance-pitch",
+      "desc": "Aansprekende opening gericht op voordeel en klant-ROI."
+    },
+    "Relance facture": {
+      "label": "Herinnering factuur",
+      "desc": "Vastberaden, beleefd, zonder excuses."
+    },
+    "Email client pro": {
+      "label": "Professionele klantmail",
+      "desc": "Beleefd en direct, klaar om te verzenden."
+    },
+    "Cahier des charges": {
+      "label": "Programma van eisen",
+      "desc": "Feitelijk en gestructureerd, geen dubbelzinnigheid."
+    },
+    "LinkedIn / réseaux": {
+      "label": "LinkedIn / sociaal",
+      "desc": "Kort ritme, één idee per regel."
+    },
+    "Vulgarisation académique": {
+      "label": "Academische uitleg",
+      "desc": "Vereenvoudigt jargon zonder aan precisie in te boeten."
+    },
+    "Mémoire / dissertation": {
+      "label": "Scriptie / essay",
+      "desc": "Formeel register, beheerste verbindingswoorden."
+    },
+    "Lettre de motivation": {
+      "label": "Sollicitatiebrief",
+      "desc": "Betrokken en precies, zonder loze formuleringen."
+    }
+  },
+  "yourText": "Uw tekst",
+  "viewLabel": "Documentweergave",
+  "view": {
+    "source": "Bron",
+    "result": "Resultaat",
+    "diff": "Verschillen"
+  },
+  "clear": "Wissen",
+  "copy": "Kopiëren",
+  "copied": "Gekopieerd ✓",
+  "analyzingSkeleton": "Herschrijven…",
+  "emptyNote": "Stel de toon en intensiteit in en voer daarna de humanisering uit.",
+  "sentence": {
+    "proposedPrefix": "Voorgestelde herschrijving · ",
+    "originalPrefix": "Oorspronkelijke versie · ",
+    "originalFallback": "Deze zin stond niet in uw tekst.",
+    "keepRewrite": "Herschrijving behouden",
+    "restoreOriginal": "Origineel herstellen",
+    "originalInPlace": "Origineel behouden",
+    "rewriteInPlace": "Herschrijving behouden"
+  },
+  "diff": {
+    "head": "Zin {n} · {tag}",
+    "originalRestored": " · origineel hersteld",
+    "noSentenceHere": "(geen zin op deze positie)",
+    "rewriteDiscarded": "— herschrijving verworpen —"
+  },
+  "kept": "{kept} van {total} behouden",
+  "keptNone": "—",
+  "rewrite": {
+    "emptyWithOutput": "Geen herschrijvingen voor deze tekst.",
+    "emptyNoOutput": "Voer de humanisering uit om de voorgestelde herschrijvingen één voor één te zien."
+  },
+  "intensityHeading": "{level} intensiteit",
+  "tonePickerLabel": "Toon",
+  "intensityPickerLabel": "Intensiteit",
+  "noDiffs": "Geen herschrijvingen voorgesteld voor deze tekst.",
+  "detectedBanner": "Tekst gedetecteerd in <b>{from}</b> · vertalen en daarna humaniseren in {to}?",
+  "translateAndHumanize": "Vertalen + humaniseren",
+  "translatedDemoText": "Kunstmatige intelligentie is allang geen verre belofte meer. Teams die het vandaag in hun processen opnemen, bouwen een voorsprong op die moeilijk in te halen is. Er blijft één eenvoudige vraag over: waar te beginnen zonder alles stuk te maken?",
+  "settings": "Instellingen",
+  "sheetTitle": "Toon en intensiteit",
+  "done": "Gereed",
+  "sidebarTitle": "Herschrijvingen",
+  "seeInText": "Bekijk in tekst",
+  "nextStep": {
+    "title": "Wat nu?",
+    "note": "Controleer of uw tekst als menselijk leest.",
+    "cta": "Voer de controle uit"
+  }
+}

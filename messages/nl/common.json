@@ -1,0 +1,35 @@
+{
+  "close": "Sluiten",
+  "undo": "Ongedaan maken",
+  "findingPrev": "Vorige bevinding",
+  "findingNext": "Volgende bevinding",
+  "modulesHeading": "Modules",
+  "loading": "Een ogenblik…",
+  "wordsUsed": "{used, number} / {cap, number} woorden",
+  "siteDescription": "PureText AI corrigeert, humaniseert en controleert uw teksten: grammaticacorrectie, AI-humanisering, AI-/plagiaatdetectie, leesbaarheid en woordentelling, allemaal in één studio.",
+  "siteDescriptionShort": "Correctie, humanisering, verificatie, leesbaarheid en woordentelling voor uw teksten.",
+  "errors": {
+    "unauthorized": "Onjuiste e-mail of wachtwoord.",
+    "conflict": "Er bestaat al een account met dit e-mailadres.",
+    "validation_error": "Controleer het e-mailadres en wachtwoord.",
+    "quota_exceeded": "Limiet bereikt — stap over op Studio of probeer het later opnieuw.",
+    "text_too_long": "De tekst overschrijdt de limiet van dit abonnement.",
+    "plan_required": "Deze optie is voorbehouden aan het Studio-abonnement.",
+    "provider_unavailable": "Dienst tijdelijk niet beschikbaar. Probeer het zo opnieuw.",
+    "rate_limited": "Te veel verzoeken — wacht even.",
+    "internal_error": "Er is een interne fout opgetreden. Probeer het opnieuw.",
+    "invalid_code": "Onjuiste of verlopen code. Controleer deze of vraag een nieuwe aan.",
+    "generic": "Er is iets misgegaan. Probeer het opnieuw.",
+    "disposable_email": "Tijdelijke e-mailadressen worden niet geaccepteerd. Gebruik uw gebruikelijke adres."
+  },
+  "toasts": {
+    "fixApplied": "“{value}” toegepast",
+    "suggestionIgnored": "Suggestie genegeerd",
+    "ruleDisabled": "Regel “{rule}” uitgeschakeld",
+    "correctionsApplied": "{n, plural, one {# correctie toegepast} other {# correcties toegepast}}",
+    "allIgnored": "Alle suggesties genegeerd",
+    "translatedAndHumanized": "Vertaald en daarna gehumaniseerd",
+    "referenceCopied": "Referentie gekopieerd: {title}",
+    "codeResent": "Nieuwe code verzonden."
+  }
+}

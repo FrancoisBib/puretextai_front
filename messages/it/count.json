@@ -1,0 +1,27 @@
+{
+  "heading": "Conti le parole",
+  "headingEmphasis": "e i caratteri.",
+  "subheading": "Il conteggio si aggiorna mentre scrive. Niente viene inviato altrove: tutto è calcolato nel Suo browser.",
+  "yourText": "Il Suo testo",
+  "clear": "Cancella",
+  "placeholder": "Inizi a scrivere o incolli il Suo testo — il conteggio La segue.",
+  "wordsUnit": "{n, plural, one {parola} other {parole}}",
+  "readabilityHint": "Il conteggio parole non dice nulla sulla facilità di lettura di un testo. Per questo, misuri la leggibilità.",
+  "testReadability": "Testa la leggibilità",
+  "stats": {
+    "chars": "caratteri",
+    "charsNoSpace": "senza spazi",
+    "sentences": "{n, plural, one {frase} other {frasi}}",
+    "paragraphs": "{n, plural, one {paragrafo} other {paragrafi}}",
+    "readingTime": "tempo di lettura",
+    "spokenTime": "lettura ad alta voce"
+  },
+  "duration": {
+    "short": "{s}s",
+    "long": "{m}m {s}s"
+  },
+  "mobileBar": {
+    "chars": "caratt.",
+    "details": "Dettagli ↑"
+  }
+}

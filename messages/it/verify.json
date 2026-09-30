@@ -1,0 +1,117 @@
+{
+  "heading": "Prima di consegnare,",
+  "headingEmphasis": "verifichi.",
+  "subheading": "Ciò che viene segnalato è mostrato nel punto esatto del Suo testo. Passa da un rilievo al successivo, proprio come nella Correzione — e niente cambia senza il Suo consenso.",
+  "yourText": "Il Suo testo",
+  "wordsSentences": "{words} parole · {sentences} frasi",
+  "editText": "Modifichi il testo",
+  "placeholder": "Incolli qui il testo da verificare — almeno 120 parole per un risultato affidabile.",
+  "clear": "Cancella",
+  "overCap": "Analisi limitata a 500 parole per scansione nel piano gratuito.",
+  "viewPricing": "Vedi i piani",
+  "run": "Verifichi il testo",
+  "hint": {
+    "moreWords": "{n} parole in più per un risultato affidabile",
+    "enough": "Abbastanza lungo"
+  },
+  "dontFlag": "Non segnalare",
+  "categories": {
+    "rythme": "Ritmo",
+    "connecteur": "Connettivo",
+    "tournure": "Formulazione",
+    "source": "Fonte"
+  },
+  "legend": {
+    "rythme": "Ritmo regolare",
+    "connecteur": "Connettivo",
+    "tournure": "Formulazione generica",
+    "source": "Trovato altrove"
+  },
+  "legendLabel": {
+    "hasFindings": "Faccia clic su un passaggio",
+    "none": "Legenda"
+  },
+  "findingTitle": {
+    "rythme": "{n} frasi di lunghezza quasi identica",
+    "connecteur": "«{term}» — parola di raccordo standardizzata",
+    "tournure": "«{term}» — formulazione preconfezionata",
+    "source": "{pct}% del testo trovato in una fonte pubblicata"
+  },
+  "findingWhy": {
+    "rythme": "Una lunghezza regolare su così tante frasi è il marcatore più comune della scrittura automatizzata. Unire due frasi e dividerne un'altra spesso basta a rompere la regolarità.",
+    "connecteur": "Queste parole di raccordo sono molto presenti nel testo generato. Nel parlato come nello scritto, le persone collegano le idee il più delle volte senza connettivo, o con un semplice «ma».",
+    "tournure": "Questa formulazione non aggiunge informazioni: annuncia l'idea invece di esprimerla. Rimuoverla rende la frase più breve e incisiva.",
+    "source": "Questo passaggio esiste già altrove. Se l'idea proviene da questa fonte, la citi — citarla risolve il problema senza riscrivere nulla."
+  },
+  "actLabel": {
+    "rythme": "Vari il ritmo",
+    "connecteur": "Riformuli la frase",
+    "tournure": "Riformuli la frase",
+    "source": "Copi il riferimento"
+  },
+  "similarity": {
+    "heading": "Somiglianza",
+    "searching": "Ricerca di fonti online in corso…",
+    "foundElsewhere": "del testo trovato altrove",
+    "seeInText": "Vedi nel testo",
+    "copyReference": "Copi il riferimento",
+    "noMatch": "Nessun passaggio significativo trovato. Le corrispondenze inferiori a otto parole consecutive non sono segnalate: sono espressioni comuni, non prestiti.",
+    "sourceLabel": "{n, plural, one {# passaggio trovato} other {# passaggi trovati}}",
+    "sourceLabelEmpty": "Risultato del confronto"
+  },
+  "simStatus": {
+    "loading": "in corso",
+    "done": "corpus esterno",
+    "idle": "non eseguita"
+  },
+  "simVerdict": {
+    "high": "Somiglianza elevata",
+    "some": "Alcune sovrapposizioni",
+    "onePassage": "Un passaggio da citare",
+    "none": "Nessun prestito significativo"
+  },
+  "simVerdictSub": {
+    "high": "Una parte notevole del testo esiste già altrove. Citi le Sue fonti o riformuli.",
+    "some": "Brevi passaggi si sovrappongono a fonti pubblicate — spesso legittimo se citato.",
+    "onePassage": "La quota è ridotta, ma il passaggio proviene da una fonte identificabile: una citazione risolve tutto.",
+    "none": "Niente di comparabile trovato nel corpus consultato."
+  },
+  "demoText": "L'intelligenza artificiale svolge ormai un ruolo centrale nella produzione di contenuti scritti nelle aziende. Va notato che questi strumenti stanno trasformando profondamente il modo in cui lavorano i team editoriali. Inoltre, la velocità di generazione permette di pubblicare più testi nello stesso periodo. I redattori professionisti devono quindi ripensare il valore che apportano oltre la semplice produzione. Resta inoltre ampiamente dibattuta la questione dell'affidabilità delle informazioni generate. Questa tecnologia svolge un ruolo decisivo nel modo in cui le organizzazioni comunicano con il loro pubblico. Tuttavia, nessuna macchina sostituisce ancora il giudizio editoriale di un professionista esperto del settore. Nel mondo di oggi, padroneggiare questi strumenti sta diventando una competenza professionale attesa. Le aziende che anticipano questa svolta hanno un reale vantaggio competitivo nei loro mercati.",
+  "emptyState": {
+    "title": "La somiglianza appare qui",
+    "note": "I rilievi di scrittura, invece, appaiono direttamente nel Suo testo — faccia clic su un passaggio evidenziato per aprirli.",
+    "action": "Carica un testo di esempio"
+  },
+  "quota": {
+    "signedIn": "3 rimanenti questo mese.",
+    "anonymous": "1 analisi gratuita senza account."
+  },
+  "verdict": {
+    "level": {
+      "low": "Basso",
+      "moderate": "Moderato",
+      "high": "Alto",
+      "veryHigh": "Molto alto"
+    },
+    "title": {
+      "low": "Il Suo testo si comporta come una scrittura umana",
+      "moderate": "Alcune regolarità individuate, niente di sistematico",
+      "high": "Diversi marcatori di scrittura automatizzata",
+      "veryHigh": "I marcatori di scrittura automatizzata si accumulano"
+    },
+    "analyzing": "Analisi in corso…",
+    "numAnalyzing": "analisi in corso…",
+    "subNoFindings": "Niente da esaminare.",
+    "subFindingsCount": "{count, plural, one {# rilievo} other {# rilievi}} da esaminare",
+    "subRhythm": " · ritmo troppo regolare",
+    "subPhrasing": " · {count, plural, one {# formulazione} other {# formulazioni}}",
+    "scoreLabel": "punteggio {score}/100",
+    "scoreTooltip": "Media ponderata dei quattro segnali misurati. Un punteggio, non una probabilità.",
+    "actionCorrect": "Vai alla correzione",
+    "actionHumanize": "Umanizza questo testo"
+  },
+  "fromHuman": {
+    "note": "Testo umanizzato un momento fa",
+    "back": "Torna all'umanizzazione"
+  }
+}

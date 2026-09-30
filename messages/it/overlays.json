@@ -1,0 +1,27 @@
+{
+  "extension": {
+    "title": "Estensione · testo selezionato",
+    "selectionLabel": "Selezione",
+    "selectionDemo": "Inoltre, va notato che le organizzazioni devono imperativamente adattarsi a questo nuovo paradigma tecnologico.",
+    "correct": "Correggi",
+    "humanize": "Umanizza",
+    "tone": "Tono",
+    "replace": "Sostituisci",
+    "copy": "Copia",
+    "copied": "Copiato ✓",
+    "close": "Chiudi",
+    "label": {
+      "correct": "Corretto",
+      "humanize": "Umanizzato"
+    },
+    "labelTone": "Tono {tone}",
+    "metaRules": "2 regole applicate",
+    "metaTone": "Tono {tone}",
+    "metaReformulated": "riformulato",
+    "demoOutput": {
+      "correct": "Inoltre, va notato che le organizzazioni devono imperativamente adattarsi a questo nuovo paradigma tecnologico.",
+      "humanize": "Le organizzazioni non hanno più davvero scelta: devono stare al passo.",
+      "tone": "Le organizzazioni devono adattarsi, e in fretta: questo cambiamento non le aspetterà."
+    }
+  }
+}

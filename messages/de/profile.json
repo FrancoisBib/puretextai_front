@@ -1,0 +1,23 @@
+{
+  "title": "Profil",
+  "loading": "Profil wird geladen …",
+  "retry": "Erneut versuchen",
+  "subscription": {
+    "label": "Abonnement",
+    "manage": "Abonnement verwalten"
+  },
+  "quota": {
+    "label": "Monatliches Kontingent",
+    "runsLeft": "{n, plural, one {# übrig} other {# übrig}} diesen Monat",
+    "unlimited": "Unbegrenzt"
+  },
+  "preferences": {
+    "label": "Einstellungen",
+    "defaultTone": "Standardton",
+    "defaultIntensity": "Standardintensität",
+    "language": "Sprache",
+    "extension": "Browser-Erweiterung",
+    "extensionActive": "Aktiv",
+    "extensionInactive": "Inaktiv"
+  }
+}

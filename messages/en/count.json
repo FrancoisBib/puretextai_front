@@ -1,0 +1,27 @@
+{
+  "heading": "Count your words",
+  "headingEmphasis": "and characters.",
+  "subheading": "The count updates as you type. Nothing is sent anywhere: everything is computed in your browser.",
+  "yourText": "Your text",
+  "clear": "Clear",
+  "placeholder": "Start writing or paste your text — the count follows.",
+  "wordsUnit": "{n, plural, one {word} other {words}}",
+  "readabilityHint": "Word count says nothing about how easy a text is to read. For that, measure readability.",
+  "testReadability": "Test readability",
+  "stats": {
+    "chars": "characters",
+    "charsNoSpace": "no spaces",
+    "sentences": "{n, plural, one {sentence} other {sentences}}",
+    "paragraphs": "{n, plural, one {paragraph} other {paragraphs}}",
+    "readingTime": "reading time",
+    "spokenTime": "spoken aloud"
+  },
+  "duration": {
+    "short": "{s}s",
+    "long": "{m}m {s}s"
+  },
+  "mobileBar": {
+    "chars": "chars",
+    "details": "Details ↑"
+  }
+}

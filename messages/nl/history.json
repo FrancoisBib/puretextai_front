@@ -1,0 +1,22 @@
+{
+  "title": "Geschiedenis",
+  "subtitle": "Uw meest recente werk, correcties en humaniseringen.",
+  "loading": "Geschiedenis laden…",
+  "retry": "Opnieuw proberen",
+  "loadMore": "Meer laden",
+  "loadingMore": "Laden…",
+  "empty": "Nog geen geschiedenis.",
+  "columns": {
+    "date": "Datum",
+    "excerpt": "Fragment",
+    "module": "Module",
+    "words": "Woorden",
+    "ai": "AI"
+  },
+  "modules": {
+    "correct": "Correctie",
+    "humanize": "Humanisering",
+    "detect": "AI-controle",
+    "similarity": "Overeenkomst"
+  }
+}

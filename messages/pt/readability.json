@@ -1,0 +1,94 @@
+{
+  "heading": "Teste de legibilidade",
+  "headingEmphasis": "para um texto.",
+  "subheading": "Medimos o esforço que o leitor tem de fazer: comprimento das frases, palavras complexas, voz passiva, jargão. Nada é reescrito — as passagens pesadas são mostradas exatamente onde estão.",
+  "categories": {
+    "longue": "Frase longa",
+    "passive": "Voz passiva",
+    "jargon": "Jargão"
+  },
+  "findingWhy": {
+    "longue": "{n} palavras de uma só vez. Acima de 25, o leitor perde o sujeito antes de chegar ao verbo — corte no primeiro conector.",
+    "jargon": "“{terms}”: termos abstratos que exigem descodificação. Uma palavra concreta diz o mesmo mais depressa.",
+    "passive": "A frase esconde quem age. Na voz ativa é mais curta, e o leitor sabe quem faz o quê."
+  },
+  "levels": {
+    "veryEasy": { "name": "Muito fácil de ler", "grade": "nível básico" },
+    "comfortable": { "name": "Leitura confortável", "grade": "nível secundário" },
+    "demanding": { "name": "Leitura exigente", "grade": "nível universitário" },
+    "difficult": { "name": "Leitura difícil", "grade": "nível pós-graduado ou superior" }
+  },
+  "signals": {
+    "sentenceLength": {
+      "name": "Comprimento das frases",
+      "metric": "{asl} palavras em média",
+      "note": {
+        "0": "Bem acima da leitura confortável (15 a 20 palavras).",
+        "1": "Um pouco longo: o leitor consegue acompanhar, mas sem folga.",
+        "2": "Na zona confortável."
+      }
+    },
+    "complexWords": {
+      "name": "Palavras complexas",
+      "metric": "{pct}% do texto",
+      "note": {
+        "0": "Muitas palavras com quatro sílabas ou mais.",
+        "1": "Densidade razoável para um texto especializado.",
+        "2": "Vocabulário acessível."
+      }
+    },
+    "passiveVoice": {
+      "name": "Voz passiva",
+      "metric": "{n, plural, one {# frase} other {# frases}}",
+      "note": {
+        "0": "O sujeito da ação desaparece demasiadas vezes.",
+        "1": "Uso ocasional, aceitável.",
+        "2": "Nenhuma: as frases dizem quem age."
+      }
+    },
+    "jargon": {
+      "name": "Jargão",
+      "metric": "{n, plural, one {# termo} other {# termos}}",
+      "note": {
+        "0": "Suficiente para perder um leitor não iniciado.",
+        "1": "Alguns termos abstratos, assinalados no texto.",
+        "2": "Nenhum termo abstrato detetado."
+      }
+    }
+  },
+  "summary": {
+    "some": "{n, plural, one {# frase a aliviar} other {# frases a aliviar}} · {asl} palavras por frase em média",
+    "none": "Frases curtas, vocabulário direto: nada a aliviar."
+  },
+  "scoreTooltip": "Índice de legibilidade Kandel-Moles, ajustado para textos em português.",
+  "goToCorrect": "Ir para Correção",
+  "seeInText": "Ver no texto",
+  "queueLabel": "{n, plural, one {# frase a aliviar} other {# frases a aliviar}}",
+  "queueLabelEmpty": "Frases a aliviar",
+  "queueEmptyNote": "Nenhuma frase ultrapassa o limiar. O texto lê-se de uma só vez.",
+  "signalsHeading": "O que custa ao leitor",
+  "signalsSubheading": "Quatro medidas, da mais à menos penalizadora.",
+  "correctThisSentence": "Corrigir esta frase",
+  "emptyState": {
+    "title": "A pontuação aparece aqui",
+    "note": "Com as quatro medidas por trás e as frases a aliviar primeiro.",
+    "action": "Carregar texto de exemplo"
+  },
+  "yourText": "O seu texto",
+  "wordsAndSentences": "{words} palavras · {sentences} frases",
+  "editText": "Editar texto",
+  "placeholder": "Cole aqui o texto a testar — um parágrafo basta, 120 palavras para uma pontuação estável.",
+  "clear": "Limpar",
+  "measuring": "A medir…",
+  "measureCta": "Medir legibilidade",
+  "measuringSkeleton": "A medir legibilidade…",
+  "hint": {
+    "unstable": "{n} palavras em falta para uma pontuação estável",
+    "stable": "comprimento suficiente"
+  },
+  "legendLabel": {
+    "toLighten": "A aliviar",
+    "nothingToReport": "Nada a assinalar"
+  },
+  "demoText": "A implementação desta metodologia de transformação, aprovada por todas as partes interessadas na reunião do comité de pilotagem do mês passado, exige uma otimização prévia essencial dos processos operacionais existentes em todos os departamentos afetados. Os resultados são esperados em breve. O paradigma colaborativo é agora considerado um pré-requisito estrutural pelos departamentos envolvidos. Vamos avançar."
+}

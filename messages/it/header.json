@@ -1,0 +1,17 @@
+{
+  "upgradeCta": "Passi a Studio",
+  "studioBadge": "Studio",
+  "addToBrowser": "Aggiungi a {browser}",
+  "account": "Account",
+  "correctionLanguage": "Lingua di correzione",
+  "history": "Cronologia",
+  "profile": "Profilo",
+  "preferences": "Preferenze",
+  "signOut": "Esci",
+  "noAccount": "Nessun account",
+  "noAccountHint": "I Suoi testi non vengono salvati",
+  "signIn": "Acceda",
+  "freeAccountHint": "Un account gratuito conserva la Sua cronologia e rimuove il limite della prova singola.",
+  "planFree": "Gratuito",
+  "planStudio": "Studio"
+}

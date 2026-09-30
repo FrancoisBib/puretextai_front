@@ -1,0 +1,17 @@
+{
+  "correct": "Correction",
+  "human": "Humanize",
+  "verify": "Verify",
+  "read": "Readability",
+  "count": "Counter",
+  "pricing": "Pricing",
+  "profile": "Profile",
+  "history": "History",
+  "notes": {
+    "correct": "Mistakes, agreement, punctuation",
+    "human": "Rewritten in your chosen tone",
+    "verify": "AI signals and similarity",
+    "read": "Effort required from the reader",
+    "count": "Words, characters, reading time"
+  }
+}

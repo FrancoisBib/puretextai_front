@@ -1,0 +1,23 @@
+{
+  "title": "Profile",
+  "loading": "Loading profile…",
+  "retry": "Retry",
+  "subscription": {
+    "label": "Subscription",
+    "manage": "Manage subscription"
+  },
+  "quota": {
+    "label": "Monthly quota",
+    "runsLeft": "{n, plural, one {# left} other {# left}} this month",
+    "unlimited": "Unlimited"
+  },
+  "preferences": {
+    "label": "Preferences",
+    "defaultTone": "Default tone",
+    "defaultIntensity": "Default intensity",
+    "language": "Language",
+    "extension": "Browser extension",
+    "extensionActive": "Active",
+    "extensionInactive": "Inactive"
+  }
+}

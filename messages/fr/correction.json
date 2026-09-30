@@ -1,0 +1,44 @@
+{
+  "heading": "Un texte propre,",
+  "headingEmphasis": "sans une faute.",
+  "subheading": "Cliquez sur un mot souligné dans votre texte : la règle s'affiche à l'endroit exact du problème. Vous appliquez, ou vous ignorez.",
+  "overCap": "Correction limitée à 300 mots par texte en gratuit.",
+  "viewPricing": "Voir les formules",
+  "runAnalysis": "Lancer l'analyse",
+  "analyzing": "Analyse en cours…",
+  "ignoreAll": "Tout ignorer",
+  "applyAllCount": "Tout corriger ({count})",
+  "yourText": "Votre texte",
+  "status": {
+    "notRun": "Analyse non lancée",
+    "noSuggestion": "Aucune suggestion",
+    "suggestionCount": "{count, plural, one {# suggestion} other {# suggestions}}"
+  },
+  "clear": "Effacer",
+  "copy": "Copier",
+  "copied": "Copié ✓",
+  "categories": {
+    "Tout": "Tout",
+    "Orthographe": "Orthographe",
+    "Grammaire": "Grammaire",
+    "Style": "Style",
+    "Vocabulaire": "Vocabulaire",
+    "Ponctuation": "Ponctuation"
+  },
+  "apply": "Appliquer",
+  "ignore": "Ignorer",
+  "review": "Révision",
+  "progress": "{total, plural, one {{done} sur {total} traitée} other {{done} sur {total} traitées}}",
+  "analyzingSkeleton": "Analyse de votre texte…",
+  "seeInText": "Voir dans le texte",
+  "testReadability": "Tester la lisibilité →",
+  "empty": {
+    "errorTitle": "Analyse impossible",
+    "idleTitle": "Analyse non lancée",
+    "idleNote": "Lancez l'analyse pour détecter les fautes de votre texte.",
+    "cleanTitle": "Votre texte est propre",
+    "cleanNote": "Votre texte est correct. Voyons maintenant s'il est clair.",
+    "noneTitle": "Rien à signaler",
+    "noneNote": "Aucune faute détectée dans ce texte pour le filtre actif."
+  }
+}

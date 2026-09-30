@@ -1,0 +1,22 @@
+{
+  "title": "History",
+  "subtitle": "Your latest work, corrections and humanizations alike.",
+  "loading": "Loading history…",
+  "retry": "Retry",
+  "loadMore": "Load more",
+  "loadingMore": "Loading…",
+  "empty": "No history yet.",
+  "columns": {
+    "date": "Date",
+    "excerpt": "Excerpt",
+    "module": "Module",
+    "words": "Words",
+    "ai": "AI"
+  },
+  "modules": {
+    "correct": "Correction",
+    "humanize": "Humanization",
+    "detect": "AI Check",
+    "similarity": "Similarity"
+  }
+}

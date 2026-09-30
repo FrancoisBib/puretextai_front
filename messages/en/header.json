@@ -1,0 +1,17 @@
+{
+  "upgradeCta": "Upgrade to Studio",
+  "studioBadge": "Studio",
+  "addToBrowser": "Add to {browser}",
+  "account": "Account",
+  "correctionLanguage": "Correction language",
+  "history": "History",
+  "profile": "Profile",
+  "preferences": "Preferences",
+  "signOut": "Sign out",
+  "noAccount": "No account",
+  "noAccountHint": "Your texts are not saved",
+  "signIn": "Sign in",
+  "freeAccountHint": "A free account keeps your history and lifts the one-time trial limit.",
+  "planFree": "Free",
+  "planStudio": "Studio"
+}

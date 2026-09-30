@@ -1,0 +1,35 @@
+{
+  "close": "Schließen",
+  "undo": "Rückgängig",
+  "findingPrev": "Vorheriger Fund",
+  "findingNext": "Nächster Fund",
+  "modulesHeading": "Module",
+  "loading": "Einen Moment …",
+  "wordsUsed": "{used, number} / {cap, number} Wörter",
+  "siteDescription": "PureText AI korrigiert, humanisiert und prüft Ihre Texte: Grammatikkorrektur, KI-Humanisierung, KI-/Plagiatserkennung, Lesbarkeit und Wortzählung – alles in einem Studio.",
+  "siteDescriptionShort": "Korrektur, Humanisierung, Prüfung, Lesbarkeit und Wortzählung für Ihre Texte.",
+  "errors": {
+    "unauthorized": "Falsche E-Mail-Adresse oder falsches Passwort.",
+    "conflict": "Für diese E-Mail-Adresse existiert bereits ein Konto.",
+    "validation_error": "Bitte prüfen Sie E-Mail-Adresse und Passwort.",
+    "quota_exceeded": "Limit erreicht – wechseln Sie zu Studio oder versuchen Sie es später erneut.",
+    "text_too_long": "Der Text überschreitet das für diesen Tarif zulässige Limit.",
+    "plan_required": "Diese Option ist dem Studio-Tarif vorbehalten.",
+    "provider_unavailable": "Dienst vorübergehend nicht verfügbar. Versuchen Sie es gleich erneut.",
+    "rate_limited": "Zu viele Anfragen – bitte warten Sie einen Moment.",
+    "internal_error": "Ein interner Fehler ist aufgetreten. Bitte versuchen Sie es erneut.",
+    "invalid_code": "Falscher oder abgelaufener Code. Prüfen Sie ihn oder fordern Sie einen neuen an.",
+    "generic": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+    "disposable_email": "Temporäre E-Mail-Adressen werden nicht akzeptiert. Bitte verwenden Sie Ihre reguläre Adresse."
+  },
+  "toasts": {
+    "fixApplied": "„{value}“ angewendet",
+    "suggestionIgnored": "Vorschlag ignoriert",
+    "ruleDisabled": "Regel „{rule}“ deaktiviert",
+    "correctionsApplied": "{n, plural, one {# Korrektur angewendet} other {# Korrekturen angewendet}}",
+    "allIgnored": "Alle Vorschläge ignoriert",
+    "translatedAndHumanized": "Übersetzt und humanisiert",
+    "referenceCopied": "Referenz kopiert: {title}",
+    "codeResent": "Neuer Code gesendet."
+  }
+}

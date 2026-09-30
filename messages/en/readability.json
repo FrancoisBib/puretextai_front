@@ -1,0 +1,94 @@
+{
+  "heading": "Readability test",
+  "headingEmphasis": "for a text.",
+  "subheading": "We measure the effort a reader has to make: sentence length, complex words, passive voice, jargon. Nothing is rewritten — the costly passages are shown right where they are.",
+  "categories": {
+    "longue": "Long sentence",
+    "passive": "Passive voice",
+    "jargon": "Jargon"
+  },
+  "findingWhy": {
+    "longue": "{n} words in one breath. Past 25, the reader loses the subject before reaching the verb — cut at the first connector.",
+    "jargon": "“{terms}”: abstract terms that require decoding. A concrete word says the same thing faster.",
+    "passive": "The sentence hides who's acting. In the active voice it's shorter, and the reader knows who's doing what."
+  },
+  "levels": {
+    "veryEasy": { "name": "Very easy to read", "grade": "middle-school level" },
+    "comfortable": { "name": "Comfortable reading", "grade": "high-school level" },
+    "demanding": { "name": "Demanding reading", "grade": "undergraduate level" },
+    "difficult": { "name": "Difficult reading", "grade": "graduate level and above" }
+  },
+  "signals": {
+    "sentenceLength": {
+      "name": "Sentence length",
+      "metric": "{asl} words avg.",
+      "note": {
+        "0": "Well above comfortable reading (15 to 20 words).",
+        "1": "A bit long: the reader can follow, but with no slack.",
+        "2": "In the comfortable zone."
+      }
+    },
+    "complexWords": {
+      "name": "Complex words",
+      "metric": "{pct}% of the text",
+      "note": {
+        "0": "Lots of words with four syllables or more.",
+        "1": "Reasonable density for a specialized text.",
+        "2": "Accessible vocabulary."
+      }
+    },
+    "passiveVoice": {
+      "name": "Passive voice",
+      "metric": "{n, plural, one {# sentence} other {# sentences}}",
+      "note": {
+        "0": "The subject of the action disappears too often.",
+        "1": "Occasional use, acceptable.",
+        "2": "None: the sentences say who's acting."
+      }
+    },
+    "jargon": {
+      "name": "Jargon",
+      "metric": "{n, plural, one {# term} other {# terms}}",
+      "note": {
+        "0": "Enough to lose an uninitiated reader.",
+        "1": "A few abstract terms, spotted in the text.",
+        "2": "No abstract terms detected."
+      }
+    }
+  },
+  "summary": {
+    "some": "{n, plural, one {# sentence to lighten} other {# sentences to lighten}} · {asl} words per sentence on average",
+    "none": "Short sentences, direct vocabulary: nothing to lighten."
+  },
+  "scoreTooltip": "Kandel-Moles readability index, tuned for French text.",
+  "goToCorrect": "Go to Correction",
+  "seeInText": "See in text",
+  "queueLabel": "{n, plural, one {# sentence to lighten} other {# sentences to lighten}}",
+  "queueLabelEmpty": "Sentences to lighten",
+  "queueEmptyNote": "No sentence crosses the load threshold. The text reads in one breath.",
+  "signalsHeading": "What costs the reader",
+  "signalsSubheading": "Four measures, from most to least penalizing.",
+  "correctThisSentence": "Correct this sentence",
+  "emptyState": {
+    "title": "The score shows up here",
+    "note": "Along with the four measures behind it, and the sentences to lighten first.",
+    "action": "Load a sample text"
+  },
+  "yourText": "Your text",
+  "wordsAndSentences": "{words} words · {sentences} sentences",
+  "editText": "Edit text",
+  "placeholder": "Paste the text to test here — one paragraph is enough, 120 words for a stable score.",
+  "clear": "Clear",
+  "measuring": "Measuring…",
+  "measureCta": "Measure readability",
+  "measuringSkeleton": "Measuring readability…",
+  "hint": {
+    "unstable": "{n} more words for a stable score",
+    "stable": "long enough"
+  },
+  "legendLabel": {
+    "toLighten": "To lighten",
+    "nothingToReport": "Nothing to report"
+  },
+  "demoText": "The rollout of this transformation methodology, which was approved by all stakeholders during last month's steering committee meeting, requires an essential upfront optimization of the existing operational processes across every affected department. The results are expected soon. The collaborative paradigm is now considered a structural prerequisite by the departments involved. We are moving forward."
+}

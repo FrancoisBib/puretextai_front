@@ -1,0 +1,118 @@
+@import "tailwindcss";
+
+/* Design tokens ported from PureText AI.dc.html — keep values exact, do not "round"
+   them for aesthetic reasons. See CLAUDE.md for the fidelity rule. */
+@theme {
+  /* The design ships exactly two breakpoints (see the two @media blocks in the
+     source's <helmet> style). `max-tab:` = the 1023px block, `max-mob:` = the 760px
+     block — Tailwind's max-* variants are exclusive, so the stored value is +1px. */
+  --breakpoint-mob: 761px;
+  --breakpoint-tab: 1024px;
+
+  --color-pt-bg: #f6f5f2;
+  --color-pt-surface: #ffffff;
+  --color-pt-surface-alt: #fcfbf9;
+  --color-pt-surface-alt-2: #fbfaf8;
+
+  --color-pt-ink: #14120f;
+  --color-pt-ink-soft: #4a4741;
+  --color-pt-muted: #55514a;
+  --color-pt-faint: #8a857c;
+  --color-pt-faint-2: #a8a29a;
+  --color-pt-faint-3: #c4beb4;
+
+  --color-pt-accent: #049fde;
+  --color-pt-accent-dark: #0378a9;
+  --color-pt-studio: #6fc9f2;
+
+  --color-pt-cat-orthographe: #b23a2e;
+  --color-pt-cat-grammaire: #c08a1e;
+  --color-pt-cat-style: #049fde;
+  --color-pt-cat-vocabulaire: #7a4fbf;
+
+  --color-pt-level-low: #1f8a54;
+  --color-pt-level-mid: #b4780f;
+  --color-pt-level-high: #d4610f;
+  --color-pt-level-severe: #c0392b;
+  --color-pt-level-purple: #7a4fbf;
+
+  /* Segmented-control / progress tracks */
+  --color-pt-track: #efede7;
+  --color-pt-track-alt: #f1efea;
+  --color-pt-track-bar: #edeae4;
+  --color-pt-track-hover: #e8e5de;
+
+  --font-sans: var(--font-plus-jakarta-sans), system-ui, sans-serif;
+  --font-serif: var(--font-instrument-serif), serif;
+}
+
+@keyframes ptIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes ptPop {
+  from { opacity: 0; transform: translateY(-6px) scale(.97); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes ptUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes ptPulse {
+  0%, 100% { opacity: .4; }
+  50% { opacity: 1; }
+}
+@keyframes ptSheet {
+  from { transform: translateY(100%); }
+  to { transform: none; }
+}
+@keyframes ptFade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes ptBar {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(340%); }
+}
+@keyframes ptSkel {
+  0%, 100% { opacity: .55; }
+  50% { opacity: 1; }
+}
+
+.animate-pt-in { animation: ptIn .25s ease both; }
+.animate-pt-pop { animation: ptPop .16s ease both; }
+.animate-pt-up { animation: ptUp .2s ease both; }
+.animate-pt-pulse { animation: ptPulse 1.1s ease-in-out infinite; }
+.animate-pt-sheet { animation: ptSheet .22s cubic-bezier(.22, .8, .3, 1) both; }
+.animate-pt-fade { animation: ptFade .18s ease both; }
+.animate-pt-bar { animation: ptBar 1.15s ease-in-out infinite; }
+.animate-pt-skel { animation: ptSkel 1.3s ease-in-out infinite; }
+
+/* The 760px block kills entry animations on the main column: on a phone the tab
+   content is already the whole screen, and the slide-in reads as jank. */
+@media (max-width: 760px) {
+  .animate-pt-in { animation: none; }
+}
+
+/* These element defaults live in the `base` layer on purpose: unlayered rules
+   outrank Tailwind's utilities, so an unlayered `a { color }` would win over a
+   `text-white` class on a link-styled button. */
+@layer base {
+  body {
+    background: var(--color-pt-bg);
+    color: var(--color-pt-ink);
+    font-family: var(--font-sans);
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  a { color: var(--color-pt-accent); text-decoration: none; }
+  a:hover { color: var(--color-pt-accent-dark); }
+  *, *::before, *::after { box-sizing: border-box; }
+  button:focus-visible, textarea:focus-visible, input:focus-visible {
+    outline: 2px solid var(--color-pt-accent);
+    outline-offset: 2px;
+  }
+  textarea, input, select { font-family: inherit; }
+  ::selection { background: rgba(4, 159, 222, .18); }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Cronologia",
+  "subtitle": "I Suoi lavori recenti, correzioni e umanizzazioni.",
+  "loading": "Caricamento della cronologia…",
+  "retry": "Riprova",
+  "loadMore": "Carica altro",
+  "loadingMore": "Caricamento…",
+  "empty": "Nessuna cronologia per ora.",
+  "columns": {
+    "date": "Data",
+    "excerpt": "Estratto",
+    "module": "Modulo",
+    "words": "Parole",
+    "ai": "IA"
+  },
+  "modules": {
+    "correct": "Correzione",
+    "humanize": "Umanizzazione",
+    "detect": "Verifica IA",
+    "similarity": "Somiglianza"
+  }
+}

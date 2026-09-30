@@ -1,0 +1,44 @@
+{
+  "heading": "Una scrittura pulita,",
+  "headingEmphasis": "senza un solo errore.",
+  "subheading": "Faccia clic su una parola sottolineata nel Suo testo: la regola appare proprio dove si trova il problema. La applichi oppure la scarti.",
+  "overCap": "Correzione limitata a 300 parole per testo nel piano gratuito.",
+  "viewPricing": "Vedi i piani",
+  "runAnalysis": "Avvia l'analisi",
+  "analyzing": "Analisi in corso…",
+  "ignoreAll": "Ignora tutto",
+  "applyAllCount": "Correggi tutto ({count})",
+  "yourText": "Il Suo testo",
+  "status": {
+    "notRun": "Analisi non avviata",
+    "noSuggestion": "Nessun suggerimento",
+    "suggestionCount": "{count, plural, one {# suggerimento} other {# suggerimenti}}"
+  },
+  "clear": "Cancella",
+  "copy": "Copia",
+  "copied": "Copiato ✓",
+  "categories": {
+    "Tout": "Tutto",
+    "Orthographe": "Ortografia",
+    "Grammaire": "Grammatica",
+    "Style": "Stile",
+    "Vocabulaire": "Vocabolario",
+    "Ponctuation": "Punteggiatura"
+  },
+  "apply": "Applica",
+  "ignore": "Ignora",
+  "review": "Esamina",
+  "progress": "{done} di {total} gestiti",
+  "analyzingSkeleton": "Analisi del Suo testo in corso…",
+  "seeInText": "Vedi nel testo",
+  "testReadability": "Testa la leggibilità →",
+  "empty": {
+    "errorTitle": "Analisi non riuscita",
+    "idleTitle": "Analisi non avviata",
+    "idleNote": "Avvii l'analisi per trovare gli errori nel Suo testo.",
+    "cleanTitle": "Il Suo testo è pulito",
+    "cleanNote": "Il Suo testo è corretto. Ora vediamo se è chiaro.",
+    "noneTitle": "Niente da segnalare",
+    "noneNote": "Nessun errore trovato in questo testo per il filtro attivo."
+  }
+}

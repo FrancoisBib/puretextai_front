@@ -1,0 +1,44 @@
+{
+  "heading": "Saubere Texte,",
+  "headingEmphasis": "ohne einen einzigen Fehler.",
+  "subheading": "Klicken Sie auf ein unterstrichenes Wort in Ihrem Text: Die Regel erscheint direkt an der Stelle. Wenden Sie sie an oder verwerfen Sie sie.",
+  "overCap": "Korrektur im kostenlosen Tarif auf 300 Wörter pro Text begrenzt.",
+  "viewPricing": "Tarife ansehen",
+  "runAnalysis": "Analyse starten",
+  "analyzing": "Wird analysiert …",
+  "ignoreAll": "Alle verwerfen",
+  "applyAllCount": "Alle korrigieren ({count})",
+  "yourText": "Ihr Text",
+  "status": {
+    "notRun": "Analyse nicht gestartet",
+    "noSuggestion": "Keine Vorschläge",
+    "suggestionCount": "{count, plural, one {# Vorschlag} other {# Vorschläge}}"
+  },
+  "clear": "Löschen",
+  "copy": "Kopieren",
+  "copied": "Kopiert ✓",
+  "categories": {
+    "Tout": "Alle",
+    "Orthographe": "Rechtschreibung",
+    "Grammaire": "Grammatik",
+    "Style": "Stil",
+    "Vocabulaire": "Wortschatz",
+    "Ponctuation": "Zeichensetzung"
+  },
+  "apply": "Anwenden",
+  "ignore": "Verwerfen",
+  "review": "Prüfen",
+  "progress": "{done} von {total} bearbeitet",
+  "analyzingSkeleton": "Ihr Text wird analysiert …",
+  "seeInText": "Im Text ansehen",
+  "testReadability": "Lesbarkeit testen →",
+  "empty": {
+    "errorTitle": "Analyse fehlgeschlagen",
+    "idleTitle": "Analyse nicht gestartet",
+    "idleNote": "Starten Sie die Analyse, um Fehler in Ihrem Text zu finden.",
+    "cleanTitle": "Ihr Text ist fehlerfrei",
+    "cleanNote": "Ihr Text ist korrekt. Prüfen wir nun, ob er auch verständlich ist.",
+    "noneTitle": "Nichts zu beanstanden",
+    "noneNote": "Keine Fehler in diesem Text für den aktiven Filter gefunden."
+  }
+}

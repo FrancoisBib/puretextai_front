@@ -1,0 +1,94 @@
+{
+  "heading": "Test de lisibilité",
+  "headingEmphasis": "d'un texte.",
+  "subheading": "On mesure l'effort demandé au lecteur : longueur des phrases, mots complexes, voix passive, jargon. Rien n'est réécrit — les passages coûteux sont montrés là où ils sont.",
+  "categories": {
+    "longue": "Phrase longue",
+    "passive": "Voix passive",
+    "jargon": "Jargon"
+  },
+  "findingWhy": {
+    "longue": "{n} mots d'une seule traite. Au-delà de 25, le lecteur perd le sujet avant d'arriver au verbe — coupez au premier connecteur.",
+    "jargon": "« {terms} » : des termes abstraits qui demandent un décodage. Un mot concret dit la même chose plus vite.",
+    "passive": "La phrase cache qui agit. À l'actif, elle est plus courte et le lecteur sait de qui on parle."
+  },
+  "levels": {
+    "veryEasy": { "name": "Très facile à lire", "grade": "niveau collège" },
+    "comfortable": { "name": "Lecture confortable", "grade": "niveau lycée" },
+    "demanding": { "name": "Lecture exigeante", "grade": "niveau licence" },
+    "difficult": { "name": "Lecture difficile", "grade": "niveau master et plus" }
+  },
+  "signals": {
+    "sentenceLength": {
+      "name": "Longueur des phrases",
+      "metric": "{asl} mots en moy.",
+      "note": {
+        "0": "Bien au-dessus du confort de lecture (15 à 20 mots).",
+        "1": "Un peu long : le lecteur tient, mais sans marge.",
+        "2": "Dans la zone confortable."
+      }
+    },
+    "complexWords": {
+      "name": "Mots complexes",
+      "metric": "{pct}% du texte",
+      "note": {
+        "0": "Beaucoup de mots de quatre syllabes ou plus.",
+        "1": "Densité correcte pour un texte spécialisé.",
+        "2": "Vocabulaire accessible."
+      }
+    },
+    "passiveVoice": {
+      "name": "Voix passive",
+      "metric": "{n, plural, one {# phrase} other {# phrases}}",
+      "note": {
+        "0": "Le sujet de l'action disparaît trop souvent.",
+        "1": "Usage ponctuel, acceptable.",
+        "2": "Aucune : les phrases disent qui agit."
+      }
+    },
+    "jargon": {
+      "name": "Jargon",
+      "metric": "{n, plural, one {# terme} other {# termes}}",
+      "note": {
+        "0": "Assez pour perdre un lecteur non initié.",
+        "1": "Quelques termes abstraits, repérés dans le texte.",
+        "2": "Aucun terme abstrait détecté."
+      }
+    }
+  },
+  "summary": {
+    "some": "{n, plural, one {# phrase à alléger} other {# phrases à alléger}} · {asl} mots par phrase en moyenne",
+    "none": "Phrases courtes, vocabulaire direct : rien à alléger."
+  },
+  "scoreTooltip": "Indice de lisibilité Kandel-Moles, adapté au français.",
+  "goToCorrect": "Passer à la correction",
+  "seeInText": "Voir dans le texte",
+  "queueLabel": "{n, plural, one {# phrase à alléger} other {# phrases à alléger}}",
+  "queueLabelEmpty": "Phrases à alléger",
+  "queueEmptyNote": "Aucune phrase ne dépasse le seuil de charge. Le texte se lit d'un trait.",
+  "signalsHeading": "Ce qui coûte au lecteur",
+  "signalsSubheading": "Quatre mesures, du plus pénalisant au moins.",
+  "correctThisSentence": "Corriger cette phrase",
+  "emptyState": {
+    "title": "L'indice arrive ici",
+    "note": "Avec les quatre mesures qui l'expliquent, et les phrases à alléger en priorité.",
+    "action": "Charger un texte d'exemple"
+  },
+  "yourText": "Votre texte",
+  "wordsAndSentences": "{words} mots · {sentences} phrases",
+  "editText": "Modifier le texte",
+  "placeholder": "Collez ici le texte à tester — un paragraphe suffit, 120 mots pour un indice stable.",
+  "clear": "Effacer",
+  "measuring": "Mesure en cours…",
+  "measureCta": "Mesurer la lisibilité",
+  "measuringSkeleton": "Mesure de la lisibilité…",
+  "hint": {
+    "unstable": "encore {n} mots pour un indice stable",
+    "stable": "longueur suffisante"
+  },
+  "legendLabel": {
+    "toLighten": "À alléger",
+    "nothingToReport": "Rien à signaler"
+  },
+  "demoText": "La mise en œuvre de cette méthodologie de transformation, qui a été validée par l'ensemble des parties prenantes lors du comité de pilotage du mois dernier, nécessite impérativement une optimisation préalable des processus opérationnels existants. Les résultats sont attendus. Le paradigme collaboratif est désormais considéré comme un prérequis structurel par les directions concernées. Nous avançons."
+}

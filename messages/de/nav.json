@@ -1,0 +1,17 @@
+{
+  "correct": "Korrektur",
+  "human": "Humanisieren",
+  "verify": "Prüfen",
+  "read": "Lesbarkeit",
+  "count": "Zähler",
+  "pricing": "Tarife",
+  "profile": "Profil",
+  "history": "Verlauf",
+  "notes": {
+    "correct": "Fehler, Übereinstimmung, Zeichensetzung",
+    "human": "In Ihrem gewählten Ton umformuliert",
+    "verify": "KI-Signale und Ähnlichkeit",
+    "read": "Leseaufwand für die Leserschaft",
+    "count": "Wörter, Zeichen, Lesezeit"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "extension": {
+    "title": "Extension · selected text",
+    "selectionLabel": "Selection",
+    "selectionDemo": "Furthermore, it should be noted that organizations must imperatively adapt to this new technological paradigm.",
+    "correct": "Correct",
+    "humanize": "Humanize",
+    "tone": "Tone",
+    "replace": "Replace",
+    "copy": "Copy",
+    "copied": "Copied ✓",
+    "close": "Close",
+    "label": {
+      "correct": "Corrected",
+      "humanize": "Humanized"
+    },
+    "labelTone": "{tone} tone",
+    "metaRules": "2 rules applied",
+    "metaTone": "{tone} tone",
+    "metaReformulated": "reformulated",
+    "demoOutput": {
+      "correct": "Furthermore, it should be noted that organizations must imperatively adapt to this new technological paradigm.",
+      "humanize": "Organizations no longer really have a choice: they have to keep up.",
+      "tone": "Organizations need to adapt, and fast: this shift won't wait for them."
+    }
+  }
+}

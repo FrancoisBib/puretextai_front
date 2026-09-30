@@ -1,0 +1,17 @@
+{
+  "upgradeCta": "Zu Studio wechseln",
+  "studioBadge": "Studio",
+  "addToBrowser": "Zu {browser} hinzufügen",
+  "account": "Konto",
+  "correctionLanguage": "Korrektursprache",
+  "history": "Verlauf",
+  "profile": "Profil",
+  "preferences": "Einstellungen",
+  "signOut": "Abmelden",
+  "noAccount": "Kein Konto",
+  "noAccountHint": "Ihre Texte werden nicht gespeichert",
+  "signIn": "Anmelden",
+  "freeAccountHint": "Ein kostenloses Konto sichert Ihren Verlauf und hebt das einmalige Testlimit auf.",
+  "planFree": "Gratis",
+  "planStudio": "Studio"
+}

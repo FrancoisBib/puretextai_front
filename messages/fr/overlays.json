@@ -1,0 +1,27 @@
+{
+  "extension": {
+    "title": "Extension · texte sélectionné",
+    "selectionLabel": "Sélection",
+    "selectionDemo": "De plus, il convient de souligner que les organisations doivent impérativements s'adapter a ce nouveau paradigme technologique.",
+    "correct": "Corriger",
+    "humanize": "Humaniser",
+    "tone": "Ton",
+    "replace": "Remplacer",
+    "copy": "Copier",
+    "copied": "Copié ✓",
+    "close": "Fermer",
+    "label": {
+      "correct": "Corrigé",
+      "humanize": "Humanisé"
+    },
+    "labelTone": "Ton {tone}",
+    "metaRules": "2 règles appliquées",
+    "metaTone": "ton {tone}",
+    "metaReformulated": "reformulé",
+    "demoOutput": {
+      "correct": "De plus, il convient de souligner que les organisations doivent impérativement s'adapter à ce nouveau paradigme technologique.",
+      "humanize": "Les organisations, elles, n'ont plus vraiment le choix : il faut suivre.",
+      "tone": "Les organisations doivent s'adapter, et vite : ce virage ne les attendra pas."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Historial",
+  "subtitle": "Tus últimos trabajos, tanto correcciones como humanizaciones.",
+  "loading": "Cargando el historial…",
+  "retry": "Reintentar",
+  "loadMore": "Cargar más",
+  "loadingMore": "Cargando…",
+  "empty": "Aún no hay historial.",
+  "columns": {
+    "date": "Fecha",
+    "excerpt": "Extracto",
+    "module": "Módulo",
+    "words": "Palabras",
+    "ai": "IA"
+  },
+  "modules": {
+    "correct": "Corrección",
+    "humanize": "Humanización",
+    "detect": "Revisión IA",
+    "similarity": "Similitud"
+  }
+}

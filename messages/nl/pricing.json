@@ -1,0 +1,47 @@
+{
+  "metaTitle": "Abonnementen en prijzen",
+  "metaDescription": "Elke PureText AI-tool is gratis — correctie, humanisering, verificatie, leesbaarheid en woordentelling. Studio (€4.99/mnd) heft de volumelimieten op en ontgrendelt maximale intensiteit.",
+  "ogTitle": "Abonnementen en prijzen · PureText AI",
+  "ogDescription": "Alles is gratis. Studio heft de volumelimieten op en ontgrendelt maximale intensiteit, vanaf €3.33 per maand.",
+  "heading": "Alles is gratis.",
+  "headingEmphasis": "Studio heft de limieten op.",
+  "subheading": "Geen enkele tool zit achter een abonnement: correctie, verificatie, leesbaarheid en de woordenteller zijn allemaal gratis te gebruiken. Studio verwijdert de volumelimieten en ontgrendelt maximale intensiteit.",
+  "free": {
+    "label": "Gratis",
+    "forever": "voor altijd",
+    "description": "Geen kaart vereist. Genoeg voor een opdracht, een artikel of een brief.",
+    "cta": "Terug naar Gratis",
+    "ctaActive": "Uw huidige abonnement"
+  },
+  "studio": {
+    "label": "Studio",
+    "recommended": "Aanbevolen",
+    "perMonth": "per maand",
+    "billingNote": "Of €39.99 per jaar, dus €3.33 per maand. Altijd opzegbaar.",
+    "cta": "Upgraden naar Studio",
+    "ctaActive": "Actief abonnement"
+  },
+  "rows": {
+    "readCount": { "name": "Leesbaarheid en Teller", "free": "onbeperkt", "studio": "onbeperkt" },
+    "correction": {
+      "name": "Correctie",
+      "free": "300 woorden per tekst, onbeperkt aantal teksten",
+      "studio": "onbeperkt, geen lengtelimiet"
+    },
+    "humanize": {
+      "name": "Humanisering",
+      "free": "Lichte en Evenwichtige intensiteit, 300 woorden",
+      "studio": "alle drie intensiteiten, geen limiet"
+    },
+    "verify": {
+      "name": "Verificatie",
+      "free": "3 analyses per maand, 500 woorden per analyse",
+      "studio": "onbeperkt, 5.000 woorden per analyse"
+    },
+    "sources": {
+      "name": "Gevonden bronnen",
+      "free": "score en aantal passages",
+      "studio": "exacte links en passages"
+    }
+  }
+}

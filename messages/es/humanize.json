@@ -1,0 +1,131 @@
+{
+  "heading": "Una redacción",
+  "headingEmphasis": "que suena a ti.",
+  "subheading": "Cada frase reescrita sigue bajo tu control: haz clic en ella para leer la original, conservarla o restaurarla.",
+  "overCap": "Humanización limitada a 300 palabras por ejecución en el plan gratuito.",
+  "viewPricing": "Ver los planes",
+  "cta": {
+    "busy": "Reescribiendo…",
+    "rerun": "Volver a humanizar",
+    "run": "Humanizar el texto"
+  },
+  "tuneHint": {
+    "recalculated": "Se recalcula con cada cambio",
+    "onLaunch": "Se aplica al ejecutar"
+  },
+  "tuneHintShort": {
+    "recalculated": "se recalcula con cada cambio",
+    "onLaunch": "se aplica al ejecutar"
+  },
+  "intensity": {
+    "light": "Suave",
+    "balanced": "Equilibrada",
+    "maximum": "Máxima"
+  },
+  "intensityNote": {
+    "light": "Retoca solo las formulaciones más mecánicas, mantiene la estructura de tus frases.",
+    "balanced": "Reescribe los giros con tono de IA y varía el ritmo. El mejor equilibrio.",
+    "maximum": "Desmonta a fondo la sintaxis académica. Revisa el resultado antes de publicarlo."
+  },
+  "toneGroups": {
+    "Généraux": "Generales",
+    "Freelance": "Freelance",
+    "Étudiant": "Estudiante"
+  },
+  "tones": {
+    "Professionnel": {
+      "label": "Profesional",
+      "desc": "Neutro y claro, sin jerga."
+    },
+    "Amical": {
+      "label": "Amable",
+      "desc": "Cálido, frases cortas."
+    },
+    "Synthétique": {
+      "label": "Conciso",
+      "desc": "Directo al grano, sin relleno."
+    },
+    "Pitch Upwork/Malt": {
+      "label": "Propuesta freelance",
+      "desc": "Enfoque orientado a beneficios y al retorno del cliente."
+    },
+    "Relance facture": {
+      "label": "Reclamación de factura",
+      "desc": "Firme, educado, sin disculpas."
+    },
+    "Email client pro": {
+      "label": "Correo profesional a un cliente",
+      "desc": "Cordial y directo, listo para enviar."
+    },
+    "Cahier des charges": {
+      "label": "Pliego de condiciones",
+      "desc": "Objetivo y estructurado, sin ambigüedades."
+    },
+    "LinkedIn / réseaux": {
+      "label": "LinkedIn / redes",
+      "desc": "Ritmo breve, una idea por línea."
+    },
+    "Vulgarisation académique": {
+      "label": "Divulgación académica",
+      "desc": "Simplifica la jerga sin perder rigor."
+    },
+    "Mémoire / dissertation": {
+      "label": "Tesis / ensayo",
+      "desc": "Registro formal, conectores controlados."
+    },
+    "Lettre de motivation": {
+      "label": "Carta de motivación",
+      "desc": "Comprometida y precisa, sin frases vacías."
+    }
+  },
+  "yourText": "Tu texto",
+  "viewLabel": "Vista del documento",
+  "view": {
+    "source": "Original",
+    "result": "Resultado",
+    "diff": "Diferencias"
+  },
+  "clear": "Borrar",
+  "copy": "Copiar",
+  "copied": "Copiado ✓",
+  "analyzingSkeleton": "Reescribiendo…",
+  "emptyNote": "Ajusta el tono y la intensidad, luego ejecuta la humanización.",
+  "sentence": {
+    "proposedPrefix": "Propuesta de reescritura · ",
+    "originalPrefix": "Versión original · ",
+    "originalFallback": "Esta frase no existía en tu texto.",
+    "keepRewrite": "Conservar la reescritura",
+    "restoreOriginal": "Restaurar la original",
+    "originalInPlace": "Original en su lugar",
+    "rewriteInPlace": "Reescritura en su lugar"
+  },
+  "diff": {
+    "head": "Frase {n} · {tag}",
+    "originalRestored": " · original restaurado",
+    "noSentenceHere": "(ninguna frase en esta posición)",
+    "rewriteDiscarded": "— reescritura descartada —"
+  },
+  "kept": "{kept} de {total} conservadas",
+  "keptNone": "—",
+  "rewrite": {
+    "emptyWithOutput": "Sin reescrituras para este texto.",
+    "emptyNoOutput": "Ejecuta la humanización para ver las reescrituras propuestas, una por una."
+  },
+  "intensityHeading": "Intensidad {level}",
+  "tonePickerLabel": "Tono",
+  "intensityPickerLabel": "Intensidad",
+  "noDiffs": "No se ha propuesto ninguna reescritura para este texto.",
+  "detectedBanner": "Texto detectado en <b>{from}</b> · ¿traducirlo y humanizarlo en {to}?",
+  "translateAndHumanize": "Traducir + humanizar",
+  "translatedDemoText": "La inteligencia artificial ha dejado de ser una promesa lejana. Los equipos que la incorporan hoy a sus procesos están tomando una ventaja difícil de recuperar. Solo queda una pregunta sencilla: ¿por dónde empezar sin romperlo todo?",
+  "settings": "Ajustes",
+  "sheetTitle": "Tono e intensidad",
+  "done": "Listo",
+  "sidebarTitle": "Reescrituras",
+  "seeInText": "Ver en el texto",
+  "nextStep": {
+    "title": "¿Y ahora qué?",
+    "note": "Comprueba que tu texto se lea como humano.",
+    "cta": "Ejecutar la revisión"
+  }
+}

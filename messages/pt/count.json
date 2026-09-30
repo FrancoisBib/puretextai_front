@@ -1,0 +1,27 @@
+{
+  "heading": "Conte as suas palavras",
+  "headingEmphasis": "e caracteres.",
+  "subheading": "A contagem atualiza-se à medida que escreve. Nada é enviado: tudo é calculado no seu navegador.",
+  "yourText": "O seu texto",
+  "clear": "Limpar",
+  "placeholder": "Comece a escrever ou cole o seu texto — a contagem acompanha.",
+  "wordsUnit": "{n, plural, one {palavra} other {palavras}}",
+  "readabilityHint": "A contagem de palavras nada diz sobre a facilidade de leitura de um texto. Para isso, meça a legibilidade.",
+  "testReadability": "Testar legibilidade",
+  "stats": {
+    "chars": "caracteres",
+    "charsNoSpace": "sem espaços",
+    "sentences": "{n, plural, one {frase} other {frases}}",
+    "paragraphs": "{n, plural, one {parágrafo} other {parágrafos}}",
+    "readingTime": "tempo de leitura",
+    "spokenTime": "leitura em voz alta"
+  },
+  "duration": {
+    "short": "{s}s",
+    "long": "{m}m {s}s"
+  },
+  "mobileBar": {
+    "chars": "caract.",
+    "details": "Detalhes ↑"
+  }
+}

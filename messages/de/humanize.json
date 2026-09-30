@@ -1,0 +1,131 @@
+{
+  "heading": "Texte,",
+  "headingEmphasis": "die nach Ihnen klingen.",
+  "subheading": "Jeder umformulierte Satz bleibt unter Ihrer Kontrolle: Klicken Sie darauf, um das Original zu lesen, es zu behalten oder wiederherzustellen.",
+  "overCap": "Humanisierung im kostenlosen Tarif auf 300 Wörter pro Durchlauf begrenzt.",
+  "viewPricing": "Tarife ansehen",
+  "cta": {
+    "busy": "Wird umformuliert …",
+    "rerun": "Humanisierung erneut ausführen",
+    "run": "Text humanisieren"
+  },
+  "tuneHint": {
+    "recalculated": "Wird bei jeder Änderung neu berechnet",
+    "onLaunch": "Wird bei Ausführung angewendet"
+  },
+  "tuneHintShort": {
+    "recalculated": "wird bei jeder Änderung neu berechnet",
+    "onLaunch": "wird bei Ausführung angewendet"
+  },
+  "intensity": {
+    "light": "Leicht",
+    "balanced": "Ausgewogen",
+    "maximum": "Maximal"
+  },
+  "intensityNote": {
+    "light": "Bessert nur die mechanischsten Formulierungen aus, behält Ihre Satzstruktur bei.",
+    "balanced": "Schreibt KI-haft klingende Wendungen um und variiert den Rhythmus. Der beste Kompromiss.",
+    "maximum": "Bricht akademische Syntax tiefgreifend auf. Prüfen Sie das Ergebnis vor der Veröffentlichung."
+  },
+  "toneGroups": {
+    "Généraux": "Allgemein",
+    "Freelance": "Freelance",
+    "Étudiant": "Studium"
+  },
+  "tones": {
+    "Professionnel": {
+      "label": "Professionell",
+      "desc": "Neutral und klar, ohne Fachjargon."
+    },
+    "Amical": {
+      "label": "Freundlich",
+      "desc": "Herzlich, kurze Sätze."
+    },
+    "Synthétique": {
+      "label": "Prägnant",
+      "desc": "Direkt auf den Punkt, ohne Füllwörter."
+    },
+    "Pitch Upwork/Malt": {
+      "label": "Upwork-/Freelance-Pitch",
+      "desc": "Nutzen- und kundenorientierter Aufhänger mit Fokus auf ROI."
+    },
+    "Relance facture": {
+      "label": "Zahlungserinnerung",
+      "desc": "Bestimmt, höflich, ohne Entschuldigungen."
+    },
+    "Email client pro": {
+      "label": "Professionelle Kunden-E-Mail",
+      "desc": "Höflich und direkt, versandfertig."
+    },
+    "Cahier des charges": {
+      "label": "Lastenheft / Projektbrief",
+      "desc": "Sachlich und strukturiert, ohne Mehrdeutigkeit."
+    },
+    "LinkedIn / réseaux": {
+      "label": "LinkedIn / Social Media",
+      "desc": "Kurzer Rhythmus, eine Idee pro Zeile."
+    },
+    "Vulgarisation académique": {
+      "label": "Wissenschaft verständlich erklärt",
+      "desc": "Vereinfacht Fachbegriffe ohne Verlust an Präzision."
+    },
+    "Mémoire / dissertation": {
+      "label": "Abschlussarbeit / Essay",
+      "desc": "Formelles Register, kontrollierte Konnektoren."
+    },
+    "Lettre de motivation": {
+      "label": "Bewerbungsschreiben",
+      "desc": "Engagiert und präzise, ohne leere Floskeln."
+    }
+  },
+  "yourText": "Ihr Text",
+  "viewLabel": "Dokumentansicht",
+  "view": {
+    "source": "Quelle",
+    "result": "Ergebnis",
+    "diff": "Unterschiede"
+  },
+  "clear": "Löschen",
+  "copy": "Kopieren",
+  "copied": "Kopiert ✓",
+  "analyzingSkeleton": "Wird umformuliert …",
+  "emptyNote": "Wählen Sie Ton und Intensität und starten Sie dann die Humanisierung.",
+  "sentence": {
+    "proposedPrefix": "Vorgeschlagene Umformulierung · ",
+    "originalPrefix": "Originalversion · ",
+    "originalFallback": "Dieser Satz existierte in Ihrem Text nicht.",
+    "keepRewrite": "Umformulierung behalten",
+    "restoreOriginal": "Original wiederherstellen",
+    "originalInPlace": "Original aktiv",
+    "rewriteInPlace": "Umformulierung aktiv"
+  },
+  "diff": {
+    "head": "Satz {n} · {tag}",
+    "originalRestored": " · Original wiederhergestellt",
+    "noSentenceHere": "(kein Satz an dieser Stelle)",
+    "rewriteDiscarded": "— Umformulierung verworfen —"
+  },
+  "kept": "{kept} von {total} behalten",
+  "keptNone": "—",
+  "rewrite": {
+    "emptyWithOutput": "Keine Umformulierungen für diesen Text.",
+    "emptyNoOutput": "Führen Sie die Humanisierung aus, um die vorgeschlagenen Umformulierungen einzeln zu sehen."
+  },
+  "intensityHeading": "{level}-Intensität",
+  "tonePickerLabel": "Ton",
+  "intensityPickerLabel": "Intensität",
+  "noDiffs": "Keine Umformulierungen für diesen Text vorgeschlagen.",
+  "detectedBanner": "Text auf <b>{from}</b> erkannt · ins {to} übersetzen und humanisieren?",
+  "translateAndHumanize": "Übersetzen + humanisieren",
+  "translatedDemoText": "Künstliche Intelligenz ist längst kein fernes Versprechen mehr. Teams, die sie heute in ihre Abläufe integrieren, verschaffen sich einen Vorsprung, der kaum noch aufzuholen ist. Eine einfache Frage bleibt: Wo anfangen, ohne alles umzuwerfen?",
+  "settings": "Einstellungen",
+  "sheetTitle": "Ton und Intensität",
+  "done": "Fertig",
+  "sidebarTitle": "Umformulierungen",
+  "seeInText": "Im Text ansehen",
+  "nextStep": {
+    "title": "Wie geht es weiter?",
+    "note": "Prüfen Sie, ob Ihr Text menschlich klingt.",
+    "cta": "Prüfung starten"
+  }
+}

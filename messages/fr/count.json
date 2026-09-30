@@ -1,0 +1,27 @@
+{
+  "heading": "Compteur de mots",
+  "headingEmphasis": "et de caractères.",
+  "subheading": "Le décompte se met à jour à la frappe. Rien n'est envoyé : tout est calculé dans votre navigateur.",
+  "yourText": "Votre texte",
+  "clear": "Effacer",
+  "placeholder": "Commencez à écrire ou collez votre texte — le décompte suit.",
+  "wordsUnit": "{n, plural, one {mot} other {mots}}",
+  "readabilityHint": "Le nombre de mots ne dit rien de la facilité de lecture. Pour ça, mesurez la lisibilité.",
+  "testReadability": "Tester la lisibilité",
+  "stats": {
+    "chars": "caractères",
+    "charsNoSpace": "sans les espaces",
+    "sentences": "{n, plural, one {phrase} other {phrases}}",
+    "paragraphs": "{n, plural, one {paragraphe} other {paragraphes}}",
+    "readingTime": "de lecture",
+    "spokenTime": "à l'oral"
+  },
+  "duration": {
+    "short": "{s} s",
+    "long": "{m} min {s}"
+  },
+  "mobileBar": {
+    "chars": "car.",
+    "details": "Détails ↑"
+  }
+}
